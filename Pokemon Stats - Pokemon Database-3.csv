@@ -1,0 +1,1236 @@
+Pokedex Number,Pokemon Id,Pokemon Name,Classification,Alternate Form Name,Legendary Type,Pokemon Height,Pokemon Weight,Primary Type,Secondary Type
+1,1,"""Bulbasaur""","""Seed Pokémon""",NULL,NULL,0.7,6.9,"""Grass""","""Poison"""
+2,2,"""Ivysaur""","""Seed Pokémon""",NULL,NULL,1,13,"""Grass""","""Poison"""
+3,3,"""Venusaur""","""Seed Pokémon""",NULL,NULL,2,100,"""Grass""","""Poison"""
+3,4,"""Venusaur""","""Seed Pokémon""","""Mega""",NULL,2.4,155.5,"""Grass""","""Poison"""
+3,1526,"""Venusaur""","""Seed Pokémon""","""Gigantamax""",NULL,24,0,"""Grass""","""Poison"""
+4,5,"""Charmander""","""Lizard Pokémon""",NULL,NULL,0.6,8.5,"""Fire""",NULL
+5,6,"""Charmeleon""","""Flame Pokémon""",NULL,NULL,1.1,19,"""Fire""",NULL
+6,7,"""Charizard""","""Flame Pokémon""",NULL,NULL,1.7,90.5,"""Fire""","""Flying"""
+6,8,"""Charizard""","""Flame Pokémon""","""Mega X""",NULL,1.7,110.5,"""Fire""","""Dragon"""
+6,9,"""Charizard""","""Flame Pokémon""","""Mega Y""",NULL,1.7,100.5,"""Fire""","""Flying"""
+6,1522,"""Charizard""","""Flame Pokémon""","""Gigantamax""",NULL,28,0,"""Fire""","""Flying"""
+7,10,"""Squirtle""","""Tiny Turtle Pokémon""",NULL,NULL,0.5,9,"""Water""",NULL
+8,11,"""Wartortle""","""Turtle Pokémon""",NULL,NULL,1,22.5,"""Water""",NULL
+9,12,"""Blastoise""","""Shellfish Pokémon""",NULL,NULL,1.6,85.5,"""Water""",NULL
+9,13,"""Blastoise""","""Shellfish Pokémon""","""Mega""",NULL,1.6,101.1,"""Water""",NULL
+9,1525,"""Blastoise""","""Shellfish Pokémon""","""Gigantamax""",NULL,25,0,"""Water""",NULL
+10,32,"""Caterpie""","""Worm Pokémon""",NULL,NULL,0.3,2.9,"""Bug""",NULL
+11,23,"""Metapod""","""Cocoon Pokémon""",NULL,NULL,0.7,9.9,"""Bug""",NULL
+12,24,"""Butterfree""","""Butterfly Pokémon""",NULL,NULL,1.1,32,"""Bug""","""Flying"""
+12,1521,"""Butterfree""","""Butterfly Pokémon""","""Gigantamax""",NULL,17,0,"""Bug""","""Flying"""
+13,31,"""Weedle""","""Hairy Bug Pokémon""",NULL,NULL,0.3,3.2,"""Bug""","""Poison"""
+14,30,"""Kakuna""","""Cocoon Pokémon""",NULL,NULL,0.6,10,"""Bug""","""Poison"""
+15,27,"""Beedrill""","""Poison Bee Pokémon""",NULL,NULL,1,29.5,"""Bug""","""Poison"""
+15,28,"""Beedrill""","""Poison Bee Pokémon""","""Mega""",NULL,1.4,40.5,"""Bug""","""Poison"""
+16,76,"""Pidgey""","""Tiny Bird Pokémon""",NULL,NULL,0.3,1.8,"""Normal""","""Flying"""
+17,77,"""Pidgeotto""","""Bird Pokémon""",NULL,NULL,1.1,30,"""Normal""","""Flying"""
+18,78,"""Pidgeot""","""Bird Pokémon""",NULL,NULL,1.5,39.5,"""Normal""","""Flying"""
+18,79,"""Pidgeot""","""Bird Pokémon""","""Mega""",NULL,2.2,50.5,"""Normal""","""Flying"""
+19,80,"""Rattata""","""Mouse Pokémon""",NULL,NULL,0.3,3.5,"""Normal""",NULL
+19,81,"""Rattata""","""Mouse Pokémon""","""Alola""",NULL,0.3,3.8,"""Dark""","""Normal"""
+20,82,"""Raticate""","""Mouse Pokémon""",NULL,NULL,0.7,18.5,"""Normal""",NULL
+20,83,"""Raticate""","""Mouse Pokémon""","""Alola""",NULL,0.7,25.5,"""Dark""","""Normal"""
+21,84,"""Spearow""","""Tiny Bird Pokémon""",NULL,NULL,0.3,2,"""Normal""","""Flying"""
+22,85,"""Fearow""","""Beak Pokémon""",NULL,NULL,1.2,38,"""Normal""","""Flying"""
+23,86,"""Ekans""","""Snake Pokémon""",NULL,NULL,2,6.9,"""Poison""",NULL
+24,87,"""Arbok""","""Cobra Pokémon""",NULL,NULL,3.5,65,"""Poison""",NULL
+25,89,"""Pikachu""","""Mouse Pokémon""",NULL,NULL,0.4,6,"""Electric""",NULL
+25,1523,"""Pikachu""","""Mouse Pokémon""","""Gigantamax""",NULL,21,0,"""Electric""",NULL
+25,1595,"""Pikachu""","""Mouse Pokémon""","""Starter""",NULL,0.4,6,"""Electric""",NULL
+26,90,"""Raichu""","""Mouse Pokémon""",NULL,NULL,0.8,30,"""Electric""",NULL
+26,90,"""Raichu""","""Mouse Pokémon""",NULL,NULL,0.8,30,"""Electric""",NULL
+26,90,"""Raichu""","""Mouse Pokémon""",NULL,NULL,0.8,30,"""Electric""",NULL
+26,91,"""Raichu""","""Mouse Pokémon""","""Alola""",NULL,0.7,21,"""Electric""","""Psychic"""
+27,92,"""Sandshrew""","""Mouse Pokémon""",NULL,NULL,0.6,12,"""Ground""",NULL
+27,93,"""Sandshrew""","""Mouse Pokémon""","""Alola""",NULL,0.7,40,"""Ice""","""Steel"""
+28,94,"""Sandslash""","""Mouse Pokémon""",NULL,NULL,1,29.5,"""Ground""",NULL
+28,95,"""Sandslash""","""Mouse Pokémon""","""Alola""",NULL,1.2,55,"""Ice""","""Steel"""
+29,33,"""Nidoran (Female)""","""Poison Pin Pokémon""",NULL,NULL,0.4,7,"""Poison""",NULL
+30,17,"""Nidorina""","""Poison Pin Pokémon""",NULL,NULL,0.8,20,"""Poison""",NULL
+31,18,"""Nidoqueen""","""Drill Pokémon""",NULL,NULL,1.3,60,"""Poison""","""Ground"""
+32,48,"""Nidoran (Male)""","""Poison Pin Pokémon""",NULL,NULL,0.5,9,"""Poison""",NULL
+33,49,"""Nidorino""","""Poison Pin Pokémon""",NULL,NULL,0.9,19.5,"""Poison""",NULL
+34,50,"""Nidoking""","""Drill Pokémon""",NULL,NULL,1.4,62,"""Poison""","""Ground"""
+35,52,"""Clefairy""","""Fairy Pokémon""",NULL,NULL,0.6,7.5,"""Fairy""",NULL
+36,53,"""Clefable""","""Fairy Pokémon""",NULL,NULL,1.3,40,"""Fairy""",NULL
+37,54,"""Vulpix""","""Fox Pokémon""",NULL,NULL,0.6,9.9,"""Fire""",NULL
+37,55,"""Vulpix""","""Fox Pokémon""","""Alola""",NULL,0.6,9.9,"""Ice""",NULL
+38,56,"""Ninetales""","""Fox Pokémon""",NULL,NULL,1.1,19.9,"""Fire""",NULL
+38,57,"""Ninetales""","""Fox Pokémon""","""Alola""",NULL,1.1,19.9,"""Ice""","""Fairy"""
+39,59,"""Jigglypuff""","""Balloon Pokémon""",NULL,NULL,0.5,5.5,"""Normal""","""Fairy"""
+40,60,"""Wigglytuff""","""Balloon Pokémon""",NULL,NULL,1,12,"""Normal""","""Fairy"""
+41,61,"""Zubat""","""Bat Pokémon""",NULL,NULL,0.8,7.5,"""Poison""","""Flying"""
+42,62,"""Golbat""","""Bat Pokémon""",NULL,NULL,1.6,55,"""Poison""","""Flying"""
+43,64,"""Oddish""","""Weed Pokémon""",NULL,NULL,0.5,5.4,"""Grass""","""Poison"""
+44,65,"""Gloom""","""Weed Pokémon""",NULL,NULL,0.8,8.6,"""Grass""","""Poison"""
+45,66,"""Vileplume""","""Flower Pokémon""",NULL,NULL,1.2,18.6,"""Grass""","""Poison"""
+46,68,"""Paras""","""Mushroom Pokémon""",NULL,NULL,0.3,5.4,"""Bug""","""Grass"""
+47,69,"""Parasect""","""Mushroom Pokémon""",NULL,NULL,1,29.5,"""Bug""","""Grass"""
+48,70,"""Venonat""","""Insect Pokémon""",NULL,NULL,1,30,"""Bug""","""Poison"""
+49,71,"""Venomoth""","""Poison Moth Pokémon""",NULL,NULL,1.5,12.5,"""Bug""","""Poison"""
+50,72,"""Diglett""","""Mole Pokémon""",NULL,NULL,0.2,0.8,"""Ground""",NULL
+50,74,"""Diglett""","""Mole Pokémon""","""Alola""",NULL,0.2,1,"""Ground""","""Steel"""
+51,75,"""Dugtrio""","""Mole Pokémon""","""Alola""",NULL,0.7,66.6,"""Ground""","""Steel"""
+51,73,"""Dugtrio""","""Mole Pokémon""",NULL,NULL,0.7,33.3,"""Ground""",NULL
+52,1524,"""Meowth""","""Scratch Cat Pokémon""","""Gigantamax""",NULL,33,0,"""Normal""",NULL
+52,96,"""Meowth""","""Scratch Cat Pokémon""",NULL,NULL,0.4,4.2,"""Normal""",NULL
+52,97,"""Meowth""","""Scratch Cat Pokémon""","""Alola""",NULL,0.4,4.2,"""Dark""",NULL
+52,98,"""Meowth""","""Scratch Cat Pokémon""","""Galar""",NULL,0.4,7.5,"""Steel""",NULL
+53,100,"""Persian""","""Classy Cat Pokémon""",NULL,NULL,1,32,"""Normal""",NULL
+53,101,"""Persian""","""Classy Cat Pokémon""","""Alola""",NULL,1.1,33,"""Dark""",NULL
+54,102,"""Psyduck""","""Duck Pokémon""",NULL,NULL,0.8,19.6,"""Water""",NULL
+55,884,"""Golduck""","""Duck Pokémon""",NULL,NULL,1.7,76.6,"""Water""",NULL
+56,895,"""Mankey""","""Pig Monkey Pokémon""",NULL,NULL,0.5,28,"""Fighting""",NULL
+57,924,"""Primeape""","""Pig Monkey Pokémon""",NULL,NULL,1,32,"""Fighting""",NULL
+58,949,"""Growlithe""","""Puppy Pokémon""",NULL,NULL,0.7,19,"""Fire""",NULL
+58,1615,"""Growlithe""","""Scout Pokémon""","""Hisui""",NULL,0.8,22.7,"""Fire""","""Rock"""
+59,1624,"""Arcanine""","""Legendary Pokémon""","""Hisui""",NULL,2,168,"""Fire""","""Rock"""
+59,960,"""Arcanine""","""Legendary Pokémon""",NULL,NULL,1.9,155,"""Fire""",NULL
+60,971,"""Poliwag""","""Tadpole Pokémon""",NULL,NULL,0.6,12.4,"""Water""",NULL
+61,982,"""Poliwhirl""","""Tadpole Pokémon""",NULL,NULL,1,20,"""Water""",NULL
+62,993,"""Poliwrath""","""Tadpole Pokémon""",NULL,NULL,1.3,54,"""Water""","""Fighting"""
+63,1004,"""Abra""","""Psi Pokémon""",NULL,NULL,0.9,19.5,"""Psychic""",NULL
+64,1015,"""Kadabra""","""Psi Pokémon""",NULL,NULL,1.3,56.5,"""Psychic""",NULL
+65,1026,"""Alakazam""","""Psi Pokémon""",NULL,NULL,1.5,48,"""Psychic""",NULL
+65,1026,"""Alakazam""","""Psi Pokémon""",NULL,NULL,1.5,48,"""Psychic""",NULL
+65,1360,"""Alakazam""","""Psi Pokémon""","""Mega""",NULL,1.2,48,"""Psychic""",NULL
+66,1076,"""Machop""","""Superpower Pokémon""",NULL,NULL,0.8,19.5,"""Fighting""",NULL
+67,1087,"""Machoke""","""Superpower Pokémon""",NULL,NULL,1.5,70.5,"""Fighting""",NULL
+68,1097,"""Machamp""","""Superpower Pokémon""",NULL,NULL,1.6,130,"""Fighting""",NULL
+68,1097,"""Machamp""","""Superpower Pokémon""",NULL,NULL,1.6,130,"""Fighting""",NULL
+68,1550,"""Machamp""","""Superpower Pokémon""","""Gigantamax""",NULL,25,0,"""Fighting""",NULL
+69,1109,"""Bellsprout""","""Flower Pokémon""",NULL,NULL,0.7,4,"""Grass""","""Poison"""
+70,1128,"""Weepinbell""","""Flycatcher Pokémon""",NULL,NULL,1,6.4,"""Grass""","""Poison"""
+71,1139,"""Victreebel""","""Flycatcher Pokémon""",NULL,NULL,1.7,15.5,"""Grass""","""Poison"""
+72,1150,"""Tentacool""","""Jellyfish Pokémon""",NULL,NULL,0.9,45.5,"""Water""","""Poison"""
+73,1254,"""Tentacruel""","""Jellyfish Pokémon""",NULL,NULL,1.6,55,"""Water""","""Poison"""
+74,1361,"""Geodude""","""Rock Pokémon""","""Alola""",NULL,0.4,20.3,"""Rock""","""Electric"""
+74,1265,"""Geodude""","""Rock Pokémon""",NULL,NULL,0.4,20,"""Rock""","""Ground"""
+75,1276,"""Graveler""","""Rock Pokémon""",NULL,NULL,1,105,"""Rock""","""Ground"""
+75,1362,"""Graveler""","""Rock Pokémon""","""Alola""",NULL,1,110,"""Rock""","""Electric"""
+76,1363,"""Golem""","""Megaton Pokémon""","""Alola""",NULL,1.7,316,"""Rock""","""Electric"""
+76,1287,"""Golem""","""Megaton Pokémon""",NULL,NULL,1.4,300,"""Rock""","""Ground"""
+76,1287,"""Golem""","""Megaton Pokémon""",NULL,NULL,1.4,300,"""Rock""","""Ground"""
+77,1297,"""Ponyta""","""Fire Horse Pokémon""",NULL,NULL,1,30,"""Fire""",NULL
+77,1364,"""Ponyta""","""Unique Horn Pokémon""","""Galar""",NULL,0.8,24,"""Psychic""",NULL
+78,1365,"""Rapidash""","""Unique Horn Pokémon""","""Galar""",NULL,1.7,80,"""Psychic""","""Fairy"""
+78,1308,"""Rapidash""","""Fire Horse Pokémon""",NULL,NULL,1.7,95,"""Fire""",NULL
+79,1319,"""Slowpoke""","""Dopey Pokémon""",NULL,NULL,1.2,36,"""Water""","""Psychic"""
+79,1366,"""Slowpoke""","""Dopey Pokémon""","""Galar""",NULL,1.2,36,"""Psychic""",NULL
+80,1367,"""Slowbro""","""Hermit Crab Pokémon""","""Mega""",NULL,2,120,"""Water""","""Psychic"""
+80,1368,"""Slowbro""","""Hermit Crab Pokémon""","""Galar""",NULL,1.6,70.5,"""Poison""","""Psychic"""
+80,1330,"""Slowbro""","""Hermit Crab Pokémon""",NULL,NULL,1.6,78.5,"""Water""","""Psychic"""
+81,46,"""Magnemite""","""Magnet Pokémon""",NULL,NULL,0.3,6,"""Electric""","""Steel"""
+82,1341,"""Magneton""","""Magnet Pokémon""",NULL,NULL,1,60,"""Electric""","""Steel"""
+83,1342,"""Farfetch'd""","""Wild Duck Pokémon""",NULL,NULL,0.8,15,"""Normal""","""Flying"""
+83,1369,"""Farfetch'd""","""Wild Bull Pokémon""","""Galar""",NULL,0.8,42,"""Fighting""",NULL
+84,1343,"""Doduo""","""Twin Bird Pokémon""",NULL,NULL,1.4,39.2,"""Normal""","""Flying"""
+85,1344,"""Dodrio""","""Triple Bird Pokémon""",NULL,NULL,1.8,85.2,"""Normal""","""Flying"""
+86,1345,"""Seel""","""Sea Lion Pokémon""",NULL,NULL,1.1,90,"""Water""",NULL
+87,1346,"""Dewgong""","""Sea Lion Pokémon""",NULL,NULL,1.7,120,"""Water""","""Ice"""
+88,1347,"""Grimer""","""Sludge Pokémon""",NULL,NULL,0.9,30,"""Poison""",NULL
+88,1372,"""Grimer""","""Sludge Pokémon""","""Alola""",NULL,0.7,42,"""Poison""","""Dark"""
+89,1373,"""Muk""","""Sludge Pokémon""","""Alola""",NULL,1,52,"""Poison""","""Dark"""
+89,1348,"""Muk""","""Sludge Pokémon""",NULL,NULL,1.2,30,"""Poison""",NULL
+90,1349,"""Shellder""","""Bivalve Pokémon""",NULL,NULL,0.3,4,"""Water""",NULL
+91,1350,"""Cloyster""","""Bivalve Pokémon""",NULL,NULL,1.5,132.5,"""Water""","""Ice"""
+92,1351,"""Gastly""","""Gas Pokémon""",NULL,NULL,1.3,0.1,"""Ghost""","""Poison"""
+93,1352,"""Haunter""","""Gas Pokémon""",NULL,NULL,1.6,0.1,"""Ghost""","""Poison"""
+94,1353,"""Gengar""","""Shadow Pokémon""",NULL,NULL,1.5,40.5,"""Ghost""","""Poison"""
+94,1353,"""Gengar""","""Shadow Pokémon""",NULL,NULL,1.5,40.5,"""Ghost""","""Poison"""
+94,1371,"""Gengar""","""Shadow Pokémon""","""Mega""",NULL,1.4,40.5,"""Ghost""","""Poison"""
+94,1549,"""Gengar""","""Shadow Pokémon""","""Gigantamax""",NULL,20,0,"""Ghost""","""Poison"""
+95,1354,"""Onix""","""Rock Snake Pokémon""",NULL,NULL,8.8,210,"""Rock""","""Ground"""
+96,1355,"""Drowzee""","""Hypnosis Pokémon""",NULL,NULL,1,32.4,"""Psychic""",NULL
+97,1356,"""Hypno""","""Hypnosis Pokémon""",NULL,NULL,1.6,75.6,"""Psychic""",NULL
+98,1357,"""Krabby""","""River Crab Pokémon""",NULL,NULL,0.4,6.5,"""Water""",NULL
+99,1358,"""Kingler""","""Pincer Pokémon""",NULL,NULL,1.3,60,"""Water""",NULL
+99,1548,"""Kingler""","""Pincer Pokémon""","""Gigantamax""",NULL,19,0,"""Water""",NULL
+100,1620,"""Voltorb""","""Sphere Pokémon""","""Hisui""",NULL,0.5,13,"""Electric""","""Grass"""
+100,47,"""Voltorb""","""Ball Pokémon""",NULL,NULL,0.5,10.5,"""Electric""",NULL
+101,105,"""Electrode""","""Ball Pokémon""",NULL,NULL,1.2,66.6,"""Electric""",NULL
+101,1632,"""Electrode""","""Sphere Pokémon""","""Hisui""",NULL,1.2,71,"""Electric""","""Grass"""
+102,136,"""Exeggcute""","""Egg Pokémon""",NULL,NULL,0.4,2.5,"""Grass""","""Psychic"""
+103,137,"""Exeggutor""","""Coconut Pokémon""",NULL,NULL,2,120,"""Grass""","""Psychic"""
+103,137,"""Exeggutor""","""Coconut Pokémon""",NULL,NULL,2,120,"""Grass""","""Psychic"""
+103,137,"""Exeggutor""","""Coconut Pokémon""",NULL,NULL,2,120,"""Grass""","""Psychic"""
+103,1359,"""Exeggutor""","""Coconut Pokémon""","""Alola""",NULL,10.9,415.6,"""Grass""","""Dragon"""
+104,138,"""Cubone""","""Lonely Pokémon""",NULL,NULL,0.4,6.5,"""Ground""",NULL
+105,139,"""Marowak""","""Bone Keeper Pokémon""",NULL,NULL,1,45,"""Ground""",NULL
+105,139,"""Marowak""","""Bone Keeper Pokémon""",NULL,NULL,1,45,"""Ground""",NULL
+105,139,"""Marowak""","""Bone Keeper Pokémon""",NULL,NULL,1,45,"""Ground""",NULL
+105,1374,"""Marowak""","""Bone Keeper Pokémon""","""Alola""",NULL,1,34,"""Ghost""","""Fire"""
+106,140,"""Hitmonlee""","""Kicking Pokémon""",NULL,NULL,1.5,49.8,"""Fighting""",NULL
+107,141,"""Hitmonchan""","""Punching Pokémon""",NULL,NULL,1.4,50.2,"""Fighting""",NULL
+108,142,"""Lickitung""","""Licking Pokémon""",NULL,NULL,1.2,65.5,"""Normal""",NULL
+109,143,"""Koffing""","""Poison Gas Pokémon""",NULL,NULL,0.6,1,"""Poison""",NULL
+110,144,"""Weezing""","""Poison Gas Pokémon""",NULL,NULL,1.2,9.5,"""Poison""",NULL
+110,1375,"""Weezing""","""Poison Gas Pokémon""","""Galar""",NULL,3,16,"""Poison""","""Fairy"""
+111,145,"""Rhyhorn""","""Spikes Pokémon""",NULL,NULL,1,115,"""Ground""","""Rock"""
+112,146,"""Rhydon""","""Drill Pokémon""",NULL,NULL,1.9,120,"""Ground""","""Rock"""
+113,147,"""Chansey""","""Egg Pokémon""",NULL,NULL,1.1,34.6,"""Normal""",NULL
+114,148,"""Tangela""","""Vine Pokémon""",NULL,NULL,1,35,"""Grass""",NULL
+115,211,"""Kangaskhan""","""Parent Pokémon""",NULL,NULL,2.2,80,"""Normal""",NULL
+115,1379,"""Kangaskhan""","""Parent Pokémon""","""Mega""",NULL,2.2,100,"""Normal""",NULL
+116,212,"""Horsea""","""Dragon Pokémon""",NULL,NULL,0.4,8,"""Water""",NULL
+117,213,"""Seadra""","""Dragon Pokémon""",NULL,NULL,1.2,25,"""Water""",NULL
+118,214,"""Goldeen""","""Goldfish Pokémon""",NULL,NULL,0.6,15,"""Water""",NULL
+119,215,"""Seaking""","""Goldfish Pokémon""",NULL,NULL,1.3,39,"""Water""",NULL
+120,216,"""Staryu""","""Star Shape Pokémon""",NULL,NULL,0.8,34.5,"""Water""",NULL
+121,217,"""Starmie""","""Mysterious Pokémon""",NULL,NULL,1.1,80,"""Water""","""Psychic"""
+122,218,"""Mr. Mime""","""Barrier Pokémon""",NULL,NULL,1.3,54.5,"""Psychic""","""Fairy"""
+122,1377,"""Mr. Mime""","""Dancing Pokémon""","""Galar""",NULL,1.4,56,"""Ice""","""Psychic"""
+123,219,"""Scyther""","""Mantis Pokémon""",NULL,NULL,1.5,56,"""Bug""","""Flying"""
+124,220,"""Jynx""","""Human Shape Pokémon""",NULL,NULL,1.4,40.6,"""Ice""","""Psychic"""
+125,221,"""Electabuzz""","""Electric Pokémon""",NULL,NULL,1.1,30,"""Electric""",NULL
+126,222,"""Magmar""","""Spitfire Pokémon""",NULL,NULL,1.3,44.5,"""Fire""",NULL
+127,223,"""Pinsir""","""Stag Beetle Pokémon""",NULL,NULL,1.5,55,"""Bug""",NULL
+127,1380,"""Pinsir""","""Stag Beetle Pokémon""","""Mega""",NULL,1.7,59,"""Bug""","""Flying"""
+128,1671,"""Tauros""","""Wild Bull Pokémon""","""Paldean Combat Breed""",NULL,1.4,115,"""Fighting""",NULL
+128,1672,"""Tauros""","""Wild Bull Pokémon""","""Paldean Blaze Breed""",NULL,1.4,85,"""Fighting""","""Fire"""
+128,1673,"""Tauros""","""Wild Bull Pokémon""","""Paldean Aqua Breed""",NULL,1.4,110,"""Fighting""","""Water"""
+128,224,"""Tauros""","""Wild Bull Pokémon""",NULL,NULL,1.4,88.4,"""Normal""",NULL
+129,225,"""Magikarp""","""Fish Pokémon""",NULL,NULL,0.9,10,"""Water""",NULL
+130,226,"""Gyarados""","""Atrocious Pokémon""",NULL,NULL,6.5,235,"""Water""","""Flying"""
+130,1381,"""Gyarados""","""Atrocious Pokémon""","""Mega""",NULL,6.5,305,"""Water""","""Dark"""
+131,1547,"""Lapras""","""Transport Pokémon""","""Gigantamax""",NULL,24,0,"""Water""","""Ice"""
+131,227,"""Lapras""","""Transport Pokémon""",NULL,NULL,2.5,220,"""Water""","""Ice"""
+132,29,"""Ditto""","""Transform Pokémon""",NULL,NULL,0.3,4,"""Normal""",NULL
+133,228,"""Eevee""","""Evolution Pokémon""",NULL,NULL,0.3,6.5,"""Normal""",NULL
+133,1546,"""Eevee""","""Evolution Pokémon""","""Gigantamax""",NULL,18,0,"""Normal""",NULL
+133,1596,"""Eevee""","""Evolution Pokémon""","""Starter""",NULL,0.3,6.5,"""Normal""",NULL
+134,229,"""Vaporeon""","""Bubble Jet Pokémon""",NULL,NULL,1,29,"""Water""",NULL
+135,230,"""Jolteon""","""Lightning Pokémon""",NULL,NULL,0.8,24.5,"""Electric""",NULL
+136,231,"""Flareon""","""Flame Pokémon""",NULL,NULL,0.9,25,"""Fire""",NULL
+137,232,"""Porygon""","""Virtual Pokémon""",NULL,NULL,0.8,36.5,"""Normal""",NULL
+138,233,"""Omanyte""","""Spiral Pokémon""",NULL,NULL,0.4,7.5,"""Rock""","""Water"""
+139,234,"""Omastar""","""Spiral Pokémon""",NULL,NULL,1,35,"""Rock""","""Water"""
+140,235,"""Kabuto""","""Shellfish Pokémon""",NULL,NULL,0.5,11.5,"""Rock""","""Water"""
+141,236,"""Kabutops""","""Shellfish Pokémon""",NULL,NULL,1.3,40.5,"""Rock""","""Water"""
+142,237,"""Aerodactyl""","""Fossil Pokémon""",NULL,NULL,1.8,59,"""Rock""","""Flying"""
+142,1382,"""Aerodactyl""","""Fossil Pokémon""","""Mega""",NULL,2.1,79,"""Rock""","""Flying"""
+143,1545,"""Snorlax""","""Sleeping Pokémon""","""Gigantamax""",NULL,35,0,"""Normal""",NULL
+143,238,"""Snorlax""","""Sleeping Pokémon""",NULL,NULL,2.1,460,"""Normal""",NULL
+144,239,"""Articuno""","""Freeze Pokémon""",NULL,"""Sub-Legendary""",1.7,55.4,"""Ice""","""Flying"""
+144,1385,"""Articuno""","""Cruel Pokémon""","""Galar""","""Sub-Legendary""",1.7,50.9,"""Psychic""","""Flying"""
+145,1386,"""Zapdos""","""Strong Legs Pokémon""","""Galar""","""Sub-Legendary""",1.6,58.2,"""Fighting""","""Flying"""
+145,240,"""Zapdos""","""Electric Pokémon""",NULL,"""Sub-Legendary""",1.6,52.6,"""Electric""","""Flying"""
+146,241,"""Moltres""","""Flame Pokémon""",NULL,"""Sub-Legendary""",2,60,"""Fire""","""Flying"""
+146,1387,"""Moltres""","""Malevolent Pokémon""","""Galar""","""Sub-Legendary""",2,66,"""Dark""","""Flying"""
+147,242,"""Dratini""","""Dragon Pokémon""",NULL,NULL,1.8,3.3,"""Dragon""",NULL
+148,243,"""Dragonair""","""Dragon Pokémon""",NULL,NULL,4,16.5,"""Dragon""",NULL
+149,244,"""Dragonite""","""Dragon Pokémon""",NULL,NULL,2.2,210,"""Dragon""","""Flying"""
+150,43,"""Mewtwo""","""Genetic Pokémon""",NULL,"""Legendary""",2,122,"""Psychic""",NULL
+150,44,"""Mewtwo""","""Genetic Pokémon""","""Mega X""","""Legendary""",2.3,127,"""Psychic""",NULL
+150,45,"""Mewtwo""","""Genetic Pokémon""","""Mega Y""","""Legendary""",1.5,33,"""Psychic""",NULL
+151,42,"""Mew""","""New Species Pokémon""",NULL,"""Mythical""",0.4,4,"""Psychic""",NULL
+152,245,"""Chikorita""","""Leaf Pokémon""",NULL,NULL,0.9,6.4,"""Grass""",NULL
+153,246,"""Bayleef""","""Leaf Pokémon""",NULL,NULL,1.2,15.8,"""Grass""",NULL
+154,247,"""Meganium""","""Herb Pokémon""",NULL,NULL,1.8,100.5,"""Grass""",NULL
+155,248,"""Cyndaquil""","""Fire Mouse Pokémon""",NULL,NULL,0.5,7.9,"""Fire""",NULL
+156,249,"""Quilava""","""Volcano Pokémon""",NULL,NULL,0.9,19,"""Fire""",NULL
+157,250,"""Typhlosion""","""Volcano Pokémon""",NULL,NULL,1.7,79.5,"""Fire""",NULL
+157,1628,"""Typhlosion""","""Ghost Flame Pokémon""","""Hisui""",NULL,1.6,69.8,"""Fire""","""Ghost"""
+158,251,"""Totodile""","""Big Jaw Pokémon""",NULL,NULL,0.6,9.5,"""Water""",NULL
+159,252,"""Croconaw""","""Big Jaw Pokémon""",NULL,NULL,1.1,25,"""Water""",NULL
+160,253,"""Feraligatr""","""Big Jaw Pokémon""",NULL,NULL,2.3,88.8,"""Water""",NULL
+161,254,"""Sentret""","""Scout Pokémon""",NULL,NULL,0.8,6,"""Normal""",NULL
+162,255,"""Furret""","""Long Body Pokémon""",NULL,NULL,1.8,32.5,"""Normal""",NULL
+163,256,"""Hoothoot""","""Owl Pokémon""",NULL,NULL,0.7,21.2,"""Normal""","""Flying"""
+164,257,"""Noctowl""","""Owl Pokémon""",NULL,NULL,1.6,40.8,"""Normal""","""Flying"""
+165,258,"""Ledyba""","""Five Star Pokémon""",NULL,NULL,1,10.8,"""Bug""","""Flying"""
+166,259,"""Ledian""","""Five Star Pokémon""",NULL,NULL,1.4,35.6,"""Bug""","""Flying"""
+167,260,"""Spinarak""","""String Spit Pokémon""",NULL,NULL,0.5,8.5,"""Bug""","""Poison"""
+168,261,"""Ariados""","""Long Leg Pokémon""",NULL,NULL,1.1,33.5,"""Bug""","""Poison"""
+169,63,"""Crobat""","""Bat Pokémon""",NULL,NULL,1.8,75,"""Poison""","""Flying"""
+170,262,"""Chinchou""","""Angler Pokémon""",NULL,NULL,0.5,12,"""Water""","""Electric"""
+171,263,"""Lanturn""","""Light Pokémon""",NULL,NULL,1.2,22.5,"""Water""","""Electric"""
+172,88,"""Pichu""","""Tiny Mouse Pokémon""",NULL,NULL,0.3,2,"""Electric""",NULL
+173,51,"""Cleffa""","""Star Shape Pokémon""",NULL,NULL,0.3,3,"""Fairy""",NULL
+174,58,"""Igglybuff""","""Balloon Pokémon""",NULL,NULL,0.3,1,"""Normal""","""Fairy"""
+175,264,"""Togepi""","""Spike Ball Pokémon""",NULL,NULL,0.3,1.5,"""Fairy""",NULL
+176,265,"""Togetic""","""Happiness Pokémon""",NULL,NULL,0.6,3.2,"""Fairy""","""Flying"""
+177,266,"""Natu""","""Tiny Bird Pokémon""",NULL,NULL,0.2,2,"""Psychic""","""Flying"""
+178,267,"""Xatu""","""Mystic Pokémon""",NULL,NULL,1.5,15,"""Psychic""","""Flying"""
+179,278,"""Mareep""","""Wool Pokémon""",NULL,NULL,0.6,7.8,"""Electric""",NULL
+180,279,"""Flaaffy""","""Wool Pokémon""",NULL,NULL,0.8,13.3,"""Electric""",NULL
+181,280,"""Ampharos""","""Light Pokémon""",NULL,NULL,1.4,61.5,"""Electric""",NULL
+181,1394,"""Ampharos""","""Light Pokémon""","""Mega""",NULL,1.4,61.5,"""Electric""","""Dragon"""
+182,67,"""Bellossom""","""Flower Pokémon""",NULL,NULL,0.4,5.8,"""Grass""",NULL
+183,283,"""Marill""","""Aqua Mouse Pokémon""",NULL,NULL,0.4,8.5,"""Water""","""Fairy"""
+184,284,"""Azumarill""","""Aqua Rabbit Pokémon""",NULL,NULL,0.8,28.5,"""Water""","""Fairy"""
+185,285,"""Sudowoodo""","""Imitation Pokémon""",NULL,NULL,1.2,38,"""Rock""",NULL
+186,286,"""Politoed""","""Frog Pokémon""",NULL,NULL,1.1,33.9,"""Water""",NULL
+187,287,"""Hoppip""","""Cottonweed Pokémon""",NULL,NULL,0.4,0.5,"""Grass""","""Flying"""
+188,288,"""Skiploom""","""Cottonweed Pokémon""",NULL,NULL,0.6,1,"""Grass""","""Flying"""
+189,289,"""Jumpluff""","""Cottonweed Pokémon""",NULL,NULL,0.8,3,"""Grass""","""Flying"""
+190,290,"""Aipom""","""Long Tail Pokémon""",NULL,NULL,0.8,11.5,"""Normal""",NULL
+191,291,"""Sunkern""","""Seed Pokémon""",NULL,NULL,0.3,1.8,"""Grass""",NULL
+192,292,"""Sunflora""","""Sun Pokémon""",NULL,NULL,0.8,8.5,"""Grass""",NULL
+193,293,"""Yanma""","""Clear Wing Pokémon""",NULL,NULL,1.2,38,"""Bug""","""Flying"""
+194,294,"""Wooper""","""Water Fish Pokémon""",NULL,NULL,0.4,8.5,"""Water""","""Ground"""
+194,1654,"""Wooper""","""Poison Fish Pokémon""","""Paldea""",NULL,0.4,11,"""Poison""","""Ground"""
+195,295,"""Quagsire""","""Water Fish Pokémon""",NULL,NULL,1.4,75,"""Water""","""Ground"""
+196,296,"""Espeon""","""Sun Pokémon""",NULL,NULL,0.9,26.5,"""Psychic""",NULL
+197,297,"""Umbreon""","""Moonlight Pokémon""",NULL,NULL,1,27,"""Dark""",NULL
+198,298,"""Murkrow""","""Darkness Pokémon""",NULL,NULL,0.5,2.1,"""Dark""","""Flying"""
+199,299,"""Slowking""","""Royal Pokémon""",NULL,NULL,2,79.5,"""Water""","""Psychic"""
+199,1388,"""Slowking""","""Royal Pokémon""","""Galar""",NULL,1.8,79.5,"""Poison""","""Psychic"""
+200,324,"""Misdreavus""","""Screech Pokémon""",NULL,NULL,0.7,1,"""Ghost""",NULL
+201,325,"""Unown""","""Symbol Pokémon""",NULL,NULL,0.5,5,"""Psychic""",NULL
+202,326,"""Wobbuffet""","""Patient Pokémon""",NULL,NULL,1.3,28.5,"""Psychic""",NULL
+203,327,"""Girafarig""","""Long Neck Pokémon""",NULL,NULL,1.5,41.5,"""Normal""","""Psychic"""
+204,328,"""Pineco""","""Bagworm Pokémon""",NULL,NULL,0.6,7.2,"""Bug""",NULL
+205,329,"""Forretress""","""Bagworm Pokémon""",NULL,NULL,1.2,125.8,"""Bug""","""Steel"""
+206,330,"""Dunsparce""","""Land Snake Pokémon""",NULL,NULL,1.5,14,"""Normal""",NULL
+207,331,"""Gligar""","""Fly Scorpion Pokémon""",NULL,NULL,1.1,64.8,"""Ground""","""Flying"""
+208,332,"""Steelix""","""Iron Snake Pokémon""",NULL,NULL,9.2,400,"""Steel""","""Ground"""
+208,1383,"""Steelix""","""Iron Snake Pokémon""","""Mega""",NULL,10.5,740,"""Steel""","""Ground"""
+209,333,"""Snubbull""","""Fairy Pokémon""",NULL,NULL,0.6,7.8,"""Fairy""",NULL
+210,334,"""Granbull""","""Fairy Pokémon""",NULL,NULL,1.4,48.7,"""Fairy""",NULL
+211,335,"""Qwilfish""","""Balloon Pokémon""",NULL,NULL,0.5,3.9,"""Water""","""Poison"""
+211,1625,"""Qwilfish""","""Balloon Pokémon""","""Hisui""",NULL,0.5,3.9,"""Dark""","""Poison"""
+212,1384,"""Scizor""","""Pincer Pokémon""","""Mega""",NULL,2,125,"""Bug""","""Steel"""
+212,336,"""Scizor""","""Pincer Pokémon""",NULL,NULL,1.8,118,"""Bug""","""Steel"""
+213,337,"""Shuckle""","""Mold Pokémon""",NULL,NULL,0.6,20.5,"""Bug""","""Rock"""
+214,338,"""Heracross""","""Single Horn Pokémon""",NULL,NULL,1.5,54,"""Bug""","""Fighting"""
+214,1395,"""Heracross""","""Abundance Pokémon""","""Mega""",NULL,1.7,62.5,"""Bug""","""Fighting"""
+215,1630,"""Sneasel""","""Sharp Claw Pokémon""","""Hisui""",NULL,0.9,27,"""Fighting""","""Poison"""
+215,339,"""Sneasel""","""Sharp Claw Pokémon""",NULL,NULL,0.9,28,"""Dark""","""Ice"""
+216,340,"""Teddiursa""","""Little Bear Pokémon""",NULL,NULL,0.6,8.8,"""Normal""",NULL
+217,341,"""Ursaring""","""Hibernator Pokémon""",NULL,NULL,1.8,125.8,"""Normal""",NULL
+218,342,"""Slugma""","""Lava Pokémon""",NULL,NULL,0.7,35,"""Fire""",NULL
+219,343,"""Magcargo""","""Lava Pokémon""",NULL,NULL,0.8,55,"""Fire""","""Rock"""
+220,344,"""Swinub""","""Pig Pokémon""",NULL,NULL,0.4,6.5,"""Ice""","""Ground"""
+221,345,"""Piloswine""","""Swine Pokémon""",NULL,NULL,1.1,55.8,"""Ice""","""Ground"""
+222,346,"""Corsola""","""Coral Pokémon""",NULL,NULL,0.6,5,"""Water""","""Rock"""
+222,1389,"""Corsola""","""Coral Pokémon""","""Galar""",NULL,0.6,0.5,"""Ghost""",NULL
+223,347,"""Remoraid""","""Jet Pokémon""",NULL,NULL,0.6,12,"""Water""",NULL
+224,348,"""Octillery""","""Jet Pokémon""",NULL,NULL,0.9,28.5,"""Water""",NULL
+225,349,"""Delibird""","""Delivery Pokémon""",NULL,NULL,0.9,16,"""Ice""","""Flying"""
+226,350,"""Mantine""","""Kite Pokémon""",NULL,NULL,2.1,220,"""Water""","""Flying"""
+227,351,"""Skarmory""","""Armor Bird Pokémon""",NULL,NULL,1.7,50.5,"""Steel""","""Flying"""
+228,352,"""Houndour""","""Dark Pokémon""",NULL,NULL,0.6,10.8,"""Dark""","""Fire"""
+229,353,"""Houndoom""","""Dark Pokémon""",NULL,NULL,1.4,35,"""Dark""","""Fire"""
+229,1396,"""Houndoom""","""Dark Pokémon""","""Mega""",NULL,1.9,49.5,"""Dark""","""Fire"""
+230,354,"""Kingdra""","""Dragon Pokémon""",NULL,NULL,1.8,152,"""Water""","""Dragon"""
+231,355,"""Phanpy""","""Long Nose Pokémon""",NULL,NULL,0.5,33.5,"""Ground""",NULL
+232,356,"""Donphan""","""Armor Pokémon""",NULL,NULL,1.1,120,"""Ground""",NULL
+233,357,"""Porygon2""","""Virtual Pokémon""",NULL,NULL,0.6,32.5,"""Normal""",NULL
+234,358,"""Stantler""","""Big Horn Pokémon""",NULL,NULL,1.4,71.2,"""Normal""",NULL
+235,359,"""Smeargle""","""Painter Pokémon""",NULL,NULL,1.2,58,"""Normal""",NULL
+236,360,"""Tyrogue""","""Scuffle Pokémon""",NULL,NULL,0.7,21,"""Fighting""",NULL
+237,361,"""Hitmontop""","""Handstand Pokémon""",NULL,NULL,1.4,48,"""Fighting""",NULL
+238,362,"""Smoochum""","""Kiss Pokémon""",NULL,NULL,0.4,6,"""Ice""","""Psychic"""
+239,363,"""Elekid""","""Electric Pokémon""",NULL,NULL,0.6,23.5,"""Electric""",NULL
+240,364,"""Magby""","""Live Coal Pokémon""",NULL,NULL,0.7,21.4,"""Fire""",NULL
+241,365,"""Miltank""","""Milk Cow Pokémon""",NULL,NULL,1.2,75.5,"""Normal""",NULL
+242,366,"""Blissey""","""Happiness Pokémon""",NULL,NULL,1.5,46.8,"""Normal""",NULL
+243,367,"""Raikou""","""Thunder Pokémon""",NULL,"""Sub-Legendary""",1.9,178,"""Electric""",NULL
+244,368,"""Entei""","""Volcano Pokémon""",NULL,"""Sub-Legendary""",2.1,198,"""Fire""",NULL
+245,369,"""Suicune""","""Aurora Pokémon""",NULL,"""Sub-Legendary""",2,187,"""Water""",NULL
+246,370,"""Larvitar""","""Rock Skin Pokémon""",NULL,NULL,0.6,72,"""Rock""","""Ground"""
+247,371,"""Pupitar""","""Hard Shell Pokémon""",NULL,NULL,1.2,152,"""Rock""","""Ground"""
+248,372,"""Tyranitar""","""Armor Pokémon""",NULL,NULL,2,202,"""Rock""","""Dark"""
+248,1397,"""Tyranitar""","""Armor Bird Pokémon""","""Mega""",NULL,2.5,255,"""Rock""","""Dark"""
+249,373,"""Lugia""","""Diving Pokémon""",NULL,"""Legendary""",5.2,216,"""Psychic""","""Flying"""
+250,374,"""Ho-Oh""","""Rainbow Pokémon""",NULL,"""Legendary""",3.8,199,"""Fire""","""Flying"""
+251,375,"""Celebi""","""Time Travel Pokémon""",NULL,"""Mythical""",0.6,5,"""Psychic""","""Grass"""
+252,380,"""Treecko""","""Wood Gecko Pokémon""",NULL,NULL,0.5,5,"""Grass""",NULL
+253,381,"""Grovyle""","""Wood Gecko Pokémon""",NULL,NULL,0.9,21.6,"""Grass""",NULL
+254,382,"""Sceptile""","""Forest Pokémon""",NULL,NULL,1.7,52.2,"""Grass""",NULL
+254,1428,"""Sceptile""","""Forest Pokémon""","""Mega""",NULL,1.9,55.2,"""Grass""","""Dragon"""
+255,383,"""Torchic""","""Chick Pokémon""",NULL,NULL,0.4,2.5,"""Fire""",NULL
+256,384,"""Combusken""","""Young Fowl Pokémon""",NULL,NULL,0.9,19.5,"""Fire""","""Fighting"""
+257,385,"""Blaziken""","""Blaze Pokémon""",NULL,NULL,1.9,52,"""Fire""","""Fighting"""
+257,1429,"""Blaziken""","""Blaze Pokémon""","""Mega""",NULL,1.9,52,"""Fire""","""Fighting"""
+258,386,"""Mudkip""","""Mud Fish Pokémon""",NULL,NULL,0.4,7.6,"""Water""",NULL
+259,387,"""Marshtomp""","""Mud Fish Pokémon""",NULL,NULL,0.7,28,"""Water""","""Ground"""
+260,388,"""Swampert""","""Mud Fish Pokémon""",NULL,NULL,1.5,81.9,"""Water""","""Ground"""
+260,1430,"""Swampert""","""Mud Fish Pokémon""","""Mega""",NULL,1.9,102,"""Water""","""Ground"""
+261,389,"""Poochyena""","""Bite Pokémon""",NULL,NULL,0.5,13.6,"""Dark""",NULL
+262,390,"""Mightyena""","""Bite Pokémon""",NULL,NULL,1,37,"""Dark""",NULL
+263,391,"""Zigzagoon""","""Tiny Raccoon Pokémon""",NULL,NULL,0.4,17.5,"""Normal""",NULL
+263,1466,"""Zigzagoon""","""Tiny Raccoon Pokémon""","""Galar""",NULL,0.4,17.5,"""Dark""","""Normal"""
+264,1467,"""Linoone""","""Rushing Pokémon""","""Galar""",NULL,0.5,32.5,"""Dark""","""Normal"""
+264,392,"""Linoone""","""Rushing Pokémon""",NULL,NULL,0.5,32.5,"""Normal""",NULL
+265,393,"""Wurmple""","""Worm Pokémon""",NULL,NULL,0.3,3.6,"""Bug""",NULL
+266,394,"""Silcoon""","""Cocoon Pokémon""",NULL,NULL,0.6,10,"""Bug""",NULL
+267,395,"""Beautifly""","""Butterfly Pokémon""",NULL,NULL,1,28.4,"""Bug""","""Flying"""
+268,396,"""Cascoon""","""Cocoon Pokémon""",NULL,NULL,0.7,11.5,"""Bug""",NULL
+269,397,"""Dustox""","""Poison Moth Pokémon""",NULL,NULL,1.2,31.6,"""Bug""","""Poison"""
+270,398,"""Lotad""","""Water Weed Pokémon""",NULL,NULL,0.5,2.6,"""Water""","""Grass"""
+271,399,"""Lombre""","""Jolly Pokémon""",NULL,NULL,1.2,32.5,"""Water""","""Grass"""
+272,400,"""Ludicolo""","""Carefree Pokémon""",NULL,NULL,1.5,55,"""Water""","""Grass"""
+273,401,"""Seedot""","""Acorn Pokémon""",NULL,NULL,0.5,4,"""Grass""",NULL
+274,402,"""Nuzleaf""","""Wily Pokémon""",NULL,NULL,1,28,"""Grass""","""Dark"""
+275,403,"""Shiftry""","""Wicked Pokémon""",NULL,NULL,1.3,59.6,"""Grass""","""Dark"""
+276,404,"""Taillow""","""Tiny Swallow Pokémon""",NULL,NULL,0.3,2.3,"""Normal""","""Flying"""
+277,405,"""Swellow""","""Swallow Pokémon""",NULL,NULL,0.7,19.8,"""Normal""","""Flying"""
+278,406,"""Wingull""","""Seagull Pokémon""",NULL,NULL,0.6,9.5,"""Water""","""Flying"""
+279,407,"""Pelipper""","""Water Bird Pokémon""",NULL,NULL,1.2,28,"""Water""","""Flying"""
+280,408,"""Ralts""","""Feeling Pokémon""",NULL,NULL,0.4,6.6,"""Psychic""","""Fairy"""
+281,409,"""Kirlia""","""Emotion Pokémon""",NULL,NULL,0.8,20.2,"""Psychic""","""Fairy"""
+282,410,"""Gardevoir""","""Embrace Pokémon""",NULL,NULL,1.6,48.4,"""Psychic""","""Fairy"""
+282,1435,"""Gardevoir""","""Embrace Pokémon""","""Mega""",NULL,1.6,48.4,"""Psychic""","""Fairy"""
+283,411,"""Surskit""","""Pond Skater Pokémon""",NULL,NULL,0.5,1.7,"""Bug""","""Water"""
+284,412,"""Masquerain""","""Eyeball Pokémon""",NULL,NULL,0.8,3.6,"""Bug""","""Flying"""
+285,413,"""Shroomish""","""Mushroom Pokémon""",NULL,NULL,0.4,4.5,"""Grass""",NULL
+286,414,"""Breloom""","""Mushroom Pokémon""",NULL,NULL,1.2,39.2,"""Grass""","""Fighting"""
+287,415,"""Slakoth""","""Slacker Pokémon""",NULL,NULL,0.8,24,"""Normal""",NULL
+288,416,"""Vigoroth""","""Wild Monkey Pokémon""",NULL,NULL,1.4,46.5,"""Normal""",NULL
+289,417,"""Slaking""","""Lazy Pokémon""",NULL,NULL,2,130.5,"""Normal""",NULL
+290,418,"""Nincada""","""Trainee Pokémon""",NULL,NULL,0.5,5.5,"""Bug""","""Ground"""
+291,419,"""Ninjask""","""Ninja Pokémon""",NULL,NULL,0.8,12,"""Bug""","""Flying"""
+292,420,"""Shedinja""","""Shed Pokémon""",NULL,NULL,0.8,1.2,"""Bug""","""Ghost"""
+293,421,"""Whismur""","""Whisper Pokémon""",NULL,NULL,0.6,16.3,"""Normal""",NULL
+294,422,"""Loudred""","""Big Voice Pokémon""",NULL,NULL,1,40.5,"""Normal""",NULL
+295,423,"""Exploud""","""Loud Noise Pokémon""",NULL,NULL,1.5,84,"""Normal""",NULL
+296,424,"""Makuhita""","""Guts Pokémon""",NULL,NULL,1,86.4,"""Fighting""",NULL
+297,425,"""Hariyama""","""Arm Thrust Pokémon""",NULL,NULL,2.3,253.8,"""Fighting""",NULL
+298,426,"""Azurill""","""Polka Dot Pokémon""",NULL,NULL,0.2,2,"""Normal""","""Fairy"""
+299,427,"""Nosepass""","""Compass Pokémon""",NULL,NULL,1,97,"""Rock""",NULL
+300,428,"""Skitty""","""Kitten Pokémon""",NULL,NULL,0.6,11,"""Normal""",NULL
+301,429,"""Delcatty""","""Prim Pokémon""",NULL,NULL,1.1,32.6,"""Normal""",NULL
+302,430,"""Sableye""","""Darkness Pokémon""",NULL,NULL,0.5,11,"""Dark""","""Ghost"""
+302,1558,"""Sableye""","""Darkness Pokémon""","""Mega""",NULL,0.5,161,"""Dark""","""Ghost"""
+303,1559,"""Mawile""","""Deceiver Pokémon""","""Mega""",NULL,1,23.5,"""Steel""","""Fairy"""
+303,431,"""Mawile""","""Deceiver Pokémon""",NULL,NULL,0.6,11.5,"""Steel""","""Fairy"""
+304,432,"""Aron""","""Iron Armor Pokémon""",NULL,NULL,0.4,60,"""Steel""","""Rock"""
+305,433,"""Lairon""","""Iron Armor Pokémon""",NULL,NULL,0.9,120,"""Steel""","""Rock"""
+306,434,"""Aggron""","""Iron Armor Pokémon""",NULL,NULL,2.1,360,"""Steel""","""Rock"""
+306,1434,"""Aggron""","""Iron Armor Pokémon""","""Mega""",NULL,2.2,395,"""Steel""",NULL
+307,435,"""Meditite""","""Meditate Pokémon""",NULL,NULL,0.6,11.2,"""Fighting""","""Psychic"""
+308,436,"""Medicham""","""Meditate Pokémon""",NULL,NULL,1.3,31.5,"""Fighting""","""Psychic"""
+308,1590,"""Medicham""","""Meditate Pokémon""","""Mega""",NULL,1.3,31.5,"""Fighting""","""Psychic"""
+309,437,"""Electrike""","""Lightning Pokémon""",NULL,NULL,0.6,15.2,"""Electric""",NULL
+310,438,"""Manectric""","""Discharge Pokémon""",NULL,NULL,1.5,40.2,"""Electric""",NULL
+310,1437,"""Manectric""","""Discharge Pokémon""","""Mega""",NULL,1.8,44,"""Electric""",NULL
+311,439,"""Plusle""","""Cheering Pokémon""",NULL,NULL,0.4,4.2,"""Electric""",NULL
+312,440,"""Minun""","""Cheering Pokémon""",NULL,NULL,0.4,4.2,"""Electric""",NULL
+313,441,"""Volbeat""","""Firefly Pokémon""",NULL,NULL,0.7,17.7,"""Bug""",NULL
+314,442,"""Illumise""","""Firefly Pokémon""",NULL,NULL,0.6,17.7,"""Bug""",NULL
+315,443,"""Roselia""","""Thorn Pokémon""",NULL,NULL,0.3,2,"""Grass""","""Poison"""
+316,444,"""Gulpin""","""Stomach Pokémon""",NULL,NULL,0.4,10.3,"""Poison""",NULL
+317,445,"""Swalot""","""Poison Bag Pokémon""",NULL,NULL,1.7,80,"""Poison""",NULL
+318,446,"""Carvanha""","""Savage Pokémon""",NULL,NULL,0.8,20.8,"""Water""","""Dark"""
+319,447,"""Sharpedo""","""Brutal Pokémon""",NULL,NULL,1.8,88.8,"""Water""","""Dark"""
+319,1587,"""Sharpedo""","""Brutal Pokémon""","""Mega""",NULL,2.5,130.3,"""Water""","""Dark"""
+320,448,"""Wailmer""","""Ball Whale Pokémon""",NULL,NULL,2,130,"""Water""",NULL
+321,449,"""Wailord""","""Float Whale Pokémon""",NULL,NULL,14.5,398,"""Water""",NULL
+322,450,"""Numel""","""Numb Pokémon""",NULL,NULL,0.7,24,"""Fire""","""Ground"""
+323,451,"""Camerupt""","""Eruption Pokémon""",NULL,NULL,1.9,220,"""Fire""","""Ground"""
+323,1588,"""Camerupt""","""Eruption Pokémon""","""Mega""",NULL,2.5,320.5,"""Fire""","""Ground"""
+324,452,"""Torkoal""","""Coal Pokémon""",NULL,NULL,0.5,80.4,"""Fire""",NULL
+325,453,"""Spoink""","""Bounce Pokémon""",NULL,NULL,0.7,30.6,"""Psychic""",NULL
+326,454,"""Grumpig""","""Manipulate Pokémon""",NULL,NULL,0.9,71.5,"""Psychic""",NULL
+327,455,"""Spinda""","""Spot Panda Pokémon""",NULL,NULL,1.1,5,"""Normal""",NULL
+328,456,"""Trapinch""","""Ant Pit Pokémon""",NULL,NULL,0.7,15,"""Ground""",NULL
+329,457,"""Vibrava""","""Vibration Pokémon""",NULL,NULL,1.1,15.3,"""Ground""","""Dragon"""
+330,458,"""Flygon""","""Mystic Pokémon""",NULL,NULL,2,82,"""Ground""","""Dragon"""
+331,459,"""Cacnea""","""Cactus Pokémon""",NULL,NULL,0.4,51.3,"""Grass""",NULL
+332,460,"""Cacturne""","""Scarecrow Pokémon""",NULL,NULL,1.3,77.4,"""Grass""","""Dark"""
+333,461,"""Swablu""","""Cotton Bird Pokémon""",NULL,NULL,0.4,1.2,"""Normal""","""Flying"""
+334,462,"""Altaria""","""Humming Pokémon""",NULL,NULL,1.1,20.6,"""Dragon""","""Flying"""
+334,1589,"""Altaria""","""Humming Pokémon""","""Mega""",NULL,1.5,20.6,"""Dragon""","""Fairy"""
+335,463,"""Zangoose""","""Cat Ferret Pokémon""",NULL,NULL,1.3,40.3,"""Normal""",NULL
+336,464,"""Seviper""","""Fang Snake Pokémon""",NULL,NULL,2.7,52.5,"""Poison""",NULL
+337,465,"""Lunatone""","""Meteorite Pokémon""",NULL,NULL,1,168,"""Rock""","""Psychic"""
+338,466,"""Solrock""","""Meteorite Pokémon""",NULL,NULL,1.2,154,"""Rock""","""Psychic"""
+339,467,"""Barboach""","""Whiskers Pokémon""",NULL,NULL,0.4,1.9,"""Water""","""Ground"""
+340,468,"""Whiscash""","""Whiskers Pokémon""",NULL,NULL,0.9,23.6,"""Water""","""Ground"""
+341,469,"""Corphish""","""Ruffian Pokémon""",NULL,NULL,0.6,11.5,"""Water""",NULL
+342,470,"""Crawdaunt""","""Rogue Pokémon""",NULL,NULL,1.1,32.8,"""Water""","""Dark"""
+343,471,"""Baltoy""","""Clay Doll Pokémon""",NULL,NULL,0.5,21.5,"""Ground""","""Psychic"""
+344,472,"""Claydol""","""Clay Doll Pokémon""",NULL,NULL,1.5,107.9,"""Ground""","""Psychic"""
+345,473,"""Lileep""","""Sea Lily Pokémon""",NULL,NULL,1,23.8,"""Rock""","""Grass"""
+346,474,"""Cradily""","""Barnacle Pokémon""",NULL,NULL,1.5,60.4,"""Rock""","""Grass"""
+347,475,"""Anorith""","""Old Shrimp Pokémon""",NULL,NULL,0.7,12.5,"""Rock""","""Bug"""
+348,476,"""Armaldo""","""Plate Pokémon""",NULL,NULL,1.5,68.2,"""Rock""","""Bug"""
+349,477,"""Feebas""","""Fish Pokémon""",NULL,NULL,0.6,7.4,"""Water""",NULL
+350,478,"""Milotic""","""Tender Pokémon""",NULL,NULL,6.2,162,"""Water""",NULL
+350,478,"""Milotic""","""Tender Pokémon""",NULL,NULL,6.2,162,"""Water""",NULL
+351,479,"""Castform""","""Weather Pokémon""",NULL,NULL,0.3,0.8,"""Normal""",NULL
+351,1565,"""Castform""","""Weather Pokémon""","""Sunny""",NULL,0.3,0.8,"""Fire""",NULL
+351,1566,"""Castform""","""Weather Pokémon""","""Rainy""",NULL,0.3,0.8,"""Water""",NULL
+351,1567,"""Castform""","""Weather Pokémon""","""Snowy""",NULL,0.3,0.8,"""Ice""",NULL
+352,480,"""Kecleon""","""Color Swap Pokémon""",NULL,NULL,1,22,"""Normal""",NULL
+353,481,"""Shuppet""","""Puppet Pokémon""",NULL,NULL,0.6,2.3,"""Ghost""",NULL
+354,482,"""Banette""","""Marionette Pokémon""",NULL,NULL,1.1,12.5,"""Ghost""",NULL
+354,1592,"""Banette""","""Marionette Pokémon""","""Mega""",NULL,1.2,13,"""Ghost""",NULL
+355,483,"""Duskull""","""Requiem Pokémon""",NULL,NULL,0.8,15,"""Ghost""",NULL
+356,484,"""Dusclops""","""Beckon Pokémon""",NULL,NULL,1.6,30.6,"""Ghost""",NULL
+357,485,"""Tropius""","""Fruit Pokémon""",NULL,NULL,2,100,"""Grass""","""Flying"""
+358,486,"""Chimecho""","""Wind Chime Pokémon""",NULL,NULL,0.6,1,"""Psychic""",NULL
+359,487,"""Absol""","""Disaster Pokémon""",NULL,NULL,1.2,47,"""Dark""",NULL
+359,1591,"""Absol""","""Disaster Pokémon""","""Mega""",NULL,1.2,49,"""Dark""",NULL
+360,488,"""Wynaut""","""Bright Pokémon""",NULL,NULL,0.6,14,"""Psychic""",NULL
+361,489,"""Snorunt""","""Snow Hat Pokémon""",NULL,NULL,0.7,16.8,"""Ice""",NULL
+362,490,"""Glalie""","""Face Pokémon""",NULL,NULL,1.5,256.5,"""Ice""",NULL
+362,1560,"""Glalie""","""Face Pokémon""","""Mega""",NULL,2.1,350.2,"""Ice""",NULL
+363,491,"""Spheal""","""Clap Pokémon""",NULL,NULL,0.8,39.5,"""Ice""","""Water"""
+364,492,"""Sealeo""","""Ball Roll Pokémon""",NULL,NULL,1.1,87.6,"""Ice""","""Water"""
+365,493,"""Walrein""","""Ice Break Pokémon""",NULL,NULL,1.4,150.6,"""Ice""","""Water"""
+366,494,"""Clamperl""","""Bivalve Pokémon""",NULL,NULL,0.4,52.5,"""Water""",NULL
+367,495,"""Huntail""","""Deep Sea Pokémon""",NULL,NULL,1.7,27,"""Water""",NULL
+368,496,"""Gorebyss""","""South Sea Pokémon""",NULL,NULL,1.8,22.6,"""Water""",NULL
+369,497,"""Relicanth""","""Longevity Pokémon""",NULL,NULL,1,23.4,"""Water""","""Rock"""
+370,498,"""Luvdisc""","""Rendezvous Pokémon""",NULL,NULL,0.6,8.7,"""Water""",NULL
+371,499,"""Bagon""","""Rock Head Pokémon""",NULL,NULL,0.6,42.1,"""Dragon""",NULL
+372,500,"""Shelgon""","""Endurance Pokémon""",NULL,NULL,1.1,110.5,"""Dragon""",NULL
+373,501,"""Salamence""","""Dragon Pokémon""",NULL,NULL,1.5,102.6,"""Dragon""","""Flying"""
+373,1586,"""Salamence""","""Dragon Pokémon""","""Mega""",NULL,1.8,112.6,"""Dragon""","""Flying"""
+374,502,"""Beldum""","""Iron Ball Pokémon""",NULL,NULL,0.6,95.2,"""Steel""","""Psychic"""
+375,503,"""Metang""","""Iron Claw Pokémon""",NULL,NULL,1.2,202.5,"""Steel""","""Psychic"""
+376,504,"""Metagross""","""Iron Leg Pokémon""",NULL,NULL,1.6,550,"""Steel""","""Psychic"""
+376,1585,"""Metagross""","""Iron Leg Pokémon""","""Mega""",NULL,2.5,942.9,"""Steel""","""Psychic"""
+377,505,"""Regirock""","""Rock Peak Pokémon""",NULL,"""Sub-Legendary""",1.7,230,"""Rock""",NULL
+378,506,"""Regice""","""Iceberg Pokémon""",NULL,"""Sub-Legendary""",1.8,175,"""Ice""",NULL
+379,507,"""Registeel""","""Iron Pokémon""",NULL,"""Sub-Legendary""",1.9,205,"""Steel""",NULL
+380,508,"""Latias""","""Eon Pokémon""",NULL,"""Sub-Legendary""",1.4,40,"""Dragon""","""Psychic"""
+380,1400,"""Latias""","""Eon Pokémon""","""Mega""",NULL,1.8,52,"""Dragon""","""Psychic"""
+381,1399,"""Latios""","""Eon Pokémon""","""Mega""",NULL,2.3,70,"""Dragon""","""Psychic"""
+381,509,"""Latios""","""Eon Pokémon""",NULL,"""Sub-Legendary""",2,60,"""Dragon""","""Psychic"""
+382,510,"""Kyogre""","""Sea Basin Pokémon""",NULL,"""Legendary""",4.5,352,"""Water""",NULL
+382,1432,"""Kyogre""","""Sea Basin Pokémon""","""Primal""","""Legendary""",9.8,430,"""Water""",NULL
+383,1433,"""Groudon""","""Continent Pokémon""","""Primal""","""Legendary""",5,999.7,"""Ground""","""Fire"""
+383,511,"""Groudon""","""Continent Pokémon""",NULL,"""Legendary""",3.5,950,"""Ground""",NULL
+384,512,"""Rayquaza""","""Sky High Pokémon""",NULL,"""Legendary""",7,206.5,"""Dragon""","""Flying"""
+384,1431,"""Rayquaza""","""Sky High Pokémon""","""Mega""","""Legendary""",10.8,392,"""Dragon""","""Flying"""
+385,513,"""Jirachi""","""Wish Pokémon""",NULL,"""Mythical""",0.3,1.1,"""Steel""","""Psychic"""
+386,514,"""Deoxys""","""DNA Pokémon""",NULL,"""Mythical""",1.7,60.8,"""Psychic""",NULL
+386,1391,"""Deoxys""","""DNA Pokémon""","""Attack""","""Mythical""",1.7,60.8,"""Psychic""",NULL
+386,1392,"""Deoxys""","""DNA Pokémon""","""Defense""","""Mythical""",1.7,60.8,"""Psychic""",NULL
+386,1393,"""Deoxys""","""DNA Pokémon""","""Speed""","""Mythical""",1.7,60.8,"""Psychic""",NULL
+387,591,"""Turtwig""","""Tiny Leaf Pokémon""",NULL,NULL,0.4,10.2,"""Grass""",NULL
+388,592,"""Grotle""","""Grove Pokémon""",NULL,NULL,1.1,97,"""Grass""",NULL
+389,593,"""Torterra""","""Continent Pokémon""",NULL,NULL,2.2,310,"""Grass""","""Ground"""
+390,34,"""Chimchar""","""Chimp Pokémon""",NULL,NULL,0.5,6.2,"""Fire""",NULL
+391,35,"""Monferno""","""Playful Pokémon""",NULL,NULL,0.9,22,"""Fire""","""Fighting"""
+392,19,"""Infernape""","""Flame Pokémon""",NULL,NULL,1.2,55,"""Fire""","""Fighting"""
+393,594,"""Piplup""","""Penguin Pokémon""",NULL,NULL,0.4,5.2,"""Water""",NULL
+394,595,"""Prinplup""","""Penguin Pokémon""",NULL,NULL,0.8,23,"""Water""",NULL
+395,596,"""Empoleon""","""Emperor Pokémon""",NULL,NULL,1.7,84.5,"""Water""","""Steel"""
+396,597,"""Starly""","""Starling Pokémon""",NULL,NULL,0.3,2,"""Normal""","""Flying"""
+397,598,"""Staravia""","""Starling Pokémon""",NULL,NULL,0.6,15.5,"""Normal""","""Flying"""
+398,599,"""Staraptor""","""Predator Pokémon""",NULL,NULL,1.2,24.9,"""Normal""","""Flying"""
+399,600,"""Bidoof""","""Plump Mouse Pokémon""",NULL,NULL,0.5,20,"""Normal""",NULL
+400,601,"""Bibarel""","""Beaver Pokémon""",NULL,NULL,1,31.5,"""Normal""","""Water"""
+401,602,"""Kricketot""","""Cricket Pokémon""",NULL,NULL,0.3,2.2,"""Bug""",NULL
+402,603,"""Kricketune""","""Cricket Pokémon""",NULL,NULL,1,25.5,"""Bug""",NULL
+403,20,"""Shinx""","""Flash Pokémon""",NULL,NULL,0.5,9.5,"""Electric""",NULL
+404,21,"""Luxio""","""Spark Pokémon""",NULL,NULL,0.9,30.5,"""Electric""",NULL
+405,22,"""Luxray""","""Gleam Eyes Pokémon""",NULL,NULL,1.4,42,"""Electric""",NULL
+406,604,"""Budew""","""Bud Pokémon""",NULL,NULL,0.2,1.2,"""Grass""","""Poison"""
+407,605,"""Roserade""","""Bouquet Pokémon""",NULL,NULL,0.9,14.5,"""Grass""","""Poison"""
+408,606,"""Cranidos""","""Head Butt Pokémon""",NULL,NULL,0.9,31.5,"""Rock""",NULL
+409,607,"""Rampardos""","""Head Butt Pokémon""",NULL,NULL,1.6,102.5,"""Rock""",NULL
+410,608,"""Shieldon""","""Shield Pokémon""",NULL,NULL,0.5,57,"""Rock""","""Steel"""
+411,609,"""Bastiodon""","""Shield Pokémon""",NULL,NULL,1.3,149.5,"""Rock""","""Steel"""
+412,610,"""Burmy""","""Bagworm Pokémon""",NULL,NULL,0.2,3.4,"""Bug""",NULL
+412,1645,"""Burmy""","""Bagworm Pokémon""","""Sandy""",NULL,0.2,3.4,"""Bug""",NULL
+412,1646,"""Burmy""","""Bagworm Pokémon""","""Trash""",NULL,0.2,3.4,"""Bug""",NULL
+413,1568,"""Wormadam""","""Bagworm Pokémon""","""Sandy""",NULL,0.5,6.5,"""Bug""","""Ground"""
+413,1569,"""Wormadam""","""Bagworm Pokémon""","""Trash""",NULL,0.5,6.5,"""Bug""","""Steel"""
+413,611,"""Wormadam""","""Bagworm Pokémon""",NULL,NULL,0.5,6.5,"""Bug""","""Grass"""
+414,612,"""Mothim""","""Moth Pokémon""",NULL,NULL,0.9,23.3,"""Bug""","""Flying"""
+415,613,"""Combee""","""Tiny Bee Pokémon""",NULL,NULL,0.3,5.5,"""Bug""","""Flying"""
+416,614,"""Vespiquen""","""Beehive Pokémon""",NULL,NULL,1.2,38.5,"""Bug""","""Flying"""
+417,615,"""Pachirisu""","""EleSquirrel Pokémon""",NULL,NULL,0.4,3.9,"""Electric""",NULL
+418,616,"""Buizel""","""Sea Weasel Pokémon""",NULL,NULL,0.7,29.5,"""Water""",NULL
+419,617,"""Floatzel""","""Sea Weasel Pokémon""",NULL,NULL,1.1,33.5,"""Water""",NULL
+420,618,"""Cherubi""","""Cherry Pokémon""",NULL,NULL,0.4,3.3,"""Grass""",NULL
+421,619,"""Cherrim""","""Blossom Pokémon""",NULL,NULL,0.5,9.3,"""Grass""",NULL
+422,620,"""Shellos""","""Sea Slug Pokémon""",NULL,NULL,0.3,6.3,"""Water""",NULL
+423,621,"""Gastrodon""","""Sea Slug Pokémon""",NULL,NULL,0.9,29.9,"""Water""","""Ground"""
+424,622,"""Ambipom""","""Long Tail Pokémon""",NULL,NULL,1.2,20.3,"""Normal""",NULL
+425,623,"""Drifloon""","""Balloon Pokémon""",NULL,NULL,0.4,1.2,"""Ghost""","""Flying"""
+426,624,"""Drifblim""","""Blimp Pokémon""",NULL,NULL,1.2,15,"""Ghost""","""Flying"""
+427,625,"""Buneary""","""Rabbit Pokémon""",NULL,NULL,0.4,5.5,"""Normal""",NULL
+428,626,"""Lopunny""","""Rabbit Pokémon""",NULL,NULL,1.2,33.3,"""Normal""",NULL
+428,1593,"""Lopunny""","""Rabbit Pokémon""","""Mega""",NULL,1.3,28.3,"""Normal""","""Fighting"""
+429,627,"""Mismagius""","""Magical Pokémon""",NULL,NULL,0.9,4.4,"""Ghost""",NULL
+430,628,"""Honchkrow""","""Big Boss Pokémon""",NULL,NULL,0.9,27.3,"""Dark""","""Flying"""
+431,629,"""Glameow""","""Catty Pokémon""",NULL,NULL,0.5,3.9,"""Normal""",NULL
+432,630,"""Purugly""","""Tiger Cat Pokémon""",NULL,NULL,1,43.8,"""Normal""",NULL
+433,631,"""Chingling""","""Bell Pokémon""",NULL,NULL,0.2,0.6,"""Psychic""",NULL
+434,632,"""Stunky""","""Skunk Pokémon""",NULL,NULL,0.4,19.2,"""Poison""","""Dark"""
+435,633,"""Skuntank""","""Skunk Pokémon""",NULL,NULL,1,38,"""Poison""","""Dark"""
+436,634,"""Bronzor""","""Bronze Pokémon""",NULL,NULL,0.5,60.5,"""Steel""","""Psychic"""
+437,635,"""Bronzong""","""Bronze Bell Pokémon""",NULL,NULL,1.3,187,"""Steel""","""Psychic"""
+438,636,"""Bonsly""","""Bonsai Pokémon""",NULL,NULL,0.5,15,"""Rock""",NULL
+439,637,"""Mime Jr.""","""Mime Pokémon""",NULL,NULL,0.6,13,"""Psychic""","""Fairy"""
+440,638,"""Happiny""","""Playhouse Pokémon""",NULL,NULL,0.6,24.4,"""Normal""",NULL
+441,639,"""Chatot""","""Music Note Pokémon""",NULL,NULL,0.5,1.9,"""Normal""","""Flying"""
+442,640,"""Spiritomb""","""Forbidden Pokémon""",NULL,NULL,1,108,"""Ghost""","""Dark"""
+443,641,"""Gible""","""Land Shark Pokémon""",NULL,NULL,0.7,20.5,"""Dragon""","""Ground"""
+444,642,"""Gabite""","""Cave Pokémon""",NULL,NULL,1.4,56,"""Dragon""","""Ground"""
+445,643,"""Garchomp""","""Mach Pokémon""",NULL,NULL,1.9,95,"""Dragon""","""Ground"""
+445,1438,"""Garchomp""","""Mach Pokémon""","""Mega""",NULL,1.9,95,"""Dragon""","""Ground"""
+446,644,"""Munchlax""","""Big Eater Pokémon""",NULL,NULL,0.6,105,"""Normal""",NULL
+447,645,"""Riolu""","""Emanation Pokémon""",NULL,NULL,0.7,20.2,"""Fighting""",NULL
+448,646,"""Lucario""","""Aura Pokémon""",NULL,NULL,1.2,54,"""Fighting""","""Steel"""
+448,1561,"""Lucario""","""Aura Pokémon""","""Mega""",NULL,1.3,57.5,"""Fighting""","""Steel"""
+449,647,"""Hippopotas""","""Hippo Pokémon""",NULL,NULL,0.8,49.5,"""Ground""",NULL
+450,648,"""Hippowdon""","""Heavyweight Pokémon""",NULL,NULL,2,300,"""Ground""",NULL
+451,649,"""Skorupi""","""Scorpion Pokémon""",NULL,NULL,0.8,12,"""Poison""","""Bug"""
+452,650,"""Drapion""","""Ogre Scorpion Pokémon""",NULL,NULL,1.3,61.5,"""Poison""","""Dark"""
+453,651,"""Croagunk""","""Toxic Mouth Pokémon""",NULL,NULL,0.7,23,"""Poison""","""Fighting"""
+454,652,"""Toxicroak""","""Toxic Mouth Pokémon""",NULL,NULL,1.3,44.4,"""Poison""","""Fighting"""
+455,653,"""Carnivine""","""Bug Catcher Pokémon""",NULL,NULL,1.4,27,"""Grass""",NULL
+456,654,"""Finneon""","""Wing Fish Pokémon""",NULL,NULL,0.4,7,"""Water""",NULL
+457,655,"""Lumineon""","""Neon Pokémon""",NULL,NULL,1.2,24,"""Water""",NULL
+458,656,"""Mantyke""","""Kite Pokémon""",NULL,NULL,1,65,"""Water""","""Flying"""
+459,657,"""Snover""","""Frost Tree Pokémon""",NULL,NULL,1,50.5,"""Grass""","""Ice"""
+460,658,"""Abomasnow""","""Frost Tree Pokémon""",NULL,NULL,2.2,135.5,"""Grass""","""Ice"""
+460,1562,"""Abomasnow""","""Frost Tree Pokémon""","""Mega""",NULL,2.7,185,"""Grass""","""Ice"""
+461,683,"""Weavile""","""Sharp Claw Pokémon""",NULL,NULL,1.1,34,"""Dark""","""Ice"""
+462,684,"""Magnezone""","""Magnet Area Pokémon""",NULL,NULL,1.2,180,"""Electric""","""Steel"""
+462,684,"""Magnezone""","""Magnet Area Pokémon""",NULL,NULL,1.2,180,"""Electric""","""Steel"""
+463,685,"""Lickilicky""","""Licking Pokémon""",NULL,NULL,1.7,140,"""Normal""",NULL
+464,686,"""Rhyperior""","""Drill Pokémon""",NULL,NULL,2.4,282.8,"""Ground""","""Rock"""
+465,687,"""Tangrowth""","""Vine Pokémon""",NULL,NULL,2,128.6,"""Grass""",NULL
+466,688,"""Electivire""","""Thunderbolt Pokémon""",NULL,NULL,1.8,138.6,"""Electric""",NULL
+467,699,"""Magmortar""","""Blast Pokémon""",NULL,NULL,1.6,68,"""Fire""",NULL
+468,713,"""Togekiss""","""Jubilee Pokémon""",NULL,NULL,1.5,38,"""Fairy""","""Flying"""
+469,714,"""Yanmega""","""Ogre Darner Pokémon""",NULL,NULL,1.9,51.5,"""Bug""","""Flying"""
+470,715,"""Leafeon""","""Verdant Pokémon""",NULL,NULL,1,25.5,"""Grass""",NULL
+470,715,"""Leafeon""","""Verdant Pokémon""",NULL,NULL,1,25.5,"""Grass""",NULL
+471,716,"""Glaceon""","""Fresh Snow Pokémon""",NULL,NULL,0.8,25.9,"""Ice""",NULL
+471,716,"""Glaceon""","""Fresh Snow Pokémon""",NULL,NULL,0.8,25.9,"""Ice""",NULL
+472,717,"""Gliscor""","""Fang Scorpion Pokémon""",NULL,NULL,2,42.5,"""Ground""","""Flying"""
+473,718,"""Mamoswine""","""Twin Tusk Pokémon""",NULL,NULL,2.5,291,"""Ice""","""Ground"""
+474,719,"""Porygon-Z""","""Virtual Pokémon""",NULL,NULL,0.9,34,"""Normal""",NULL
+475,720,"""Gallade""","""Blade Pokémon""",NULL,NULL,1.6,52,"""Psychic""","""Fighting"""
+475,1436,"""Gallade""","""Blade Pokémon""","""Mega""",NULL,1.6,56.4,"""Psychic""","""Fighting"""
+476,726,"""Probopass""","""Compass Pokémon""",NULL,NULL,1.4,340,"""Rock""","""Steel"""
+476,726,"""Probopass""","""Compass Pokémon""",NULL,NULL,1.4,340,"""Rock""","""Steel"""
+477,727,"""Dusknoir""","""Gripper Pokémon""",NULL,NULL,2.2,106.6,"""Ghost""",NULL
+478,728,"""Froslass""","""Snow Land Pokémon""",NULL,NULL,1.3,26.6,"""Ice""","""Ghost"""
+479,729,"""Rotom""","""Plasma Pokémon""",NULL,NULL,0.3,0.3,"""Electric""","""Ghost"""
+479,1408,"""Rotom""","""Plasma Pokémon""","""Heat""",NULL,0.3,0.3,"""Electric""","""Fire"""
+479,1409,"""Rotom""","""Plasma Pokémon""","""Wash""",NULL,0.3,0.3,"""Electric""","""Water"""
+479,1410,"""Rotom""","""Plasma Pokémon""","""Frost""",NULL,0.3,0.3,"""Electric""","""Ice"""
+479,1411,"""Rotom""","""Plasma Pokémon""","""Fan""",NULL,0.3,0.3,"""Electric""","""Flying"""
+479,1413,"""Rotom""","""Plasma Pokémon""","""Mow""",NULL,0.3,0.3,"""Electric""","""Grass"""
+480,730,"""Uxie""","""Knowledge Pokémon""",NULL,"""Sub-Legendary""",0.3,0.3,"""Psychic""",NULL
+481,731,"""Mesprit""","""Emotion Pokémon""",NULL,"""Sub-Legendary""",0.3,0.3,"""Psychic""",NULL
+482,732,"""Azelf""","""Willpower Pokémon""",NULL,"""Sub-Legendary""",0.3,0.3,"""Psychic""",NULL
+483,733,"""Dialga""","""Temporal Pokémon""",NULL,"""Legendary""",5.4,683,"""Steel""","""Dragon"""
+483,1633,"""Dialga""","""Temporal Pokémon""","""Origin""",NULL,7,850,"""Steel""","""Dragon"""
+484,1634,"""Palkia""","""Spatial Pokémon""","""Origin""",NULL,6.3,660,"""Water""","""Dragon"""
+484,734,"""Palkia""","""Spatial Pokémon""",NULL,"""Legendary""",4.2,336,"""Water""","""Dragon"""
+485,735,"""Heatran""","""Lava Dome Pokémon""",NULL,"""Sub-Legendary""",1.7,430,"""Fire""","""Steel"""
+486,736,"""Regigigas""","""Colossal Pokémon""",NULL,"""Sub-Legendary""",3.7,420,"""Normal""",NULL
+487,737,"""Giratina""","""Renegade Pokémon""",NULL,"""Legendary""",4.5,750,"""Ghost""","""Dragon"""
+487,1401,"""Giratina""","""Renegade Pokémon""","""Origin""","""Legendary""",6.9,650,"""Ghost""","""Dragon"""
+488,738,"""Cresselia""","""Lunar Pokémon""",NULL,"""Sub-Legendary""",1.5,85.6,"""Psychic""",NULL
+489,36,"""Phione""","""Sea Drifter Pokémon""",NULL,"""Mythical""",0.4,3.1,"""Water""",NULL
+490,37,"""Manaphy""","""Seafaring Pokémon""",NULL,"""Mythical""",0.3,1.4,"""Water""",NULL
+491,739,"""Darkrai""","""Pitch-Black Pokémon""",NULL,"""Mythical""",1.5,50.5,"""Dark""",NULL
+492,740,"""Shaymin""","""Gratitude Pokémon""",NULL,"""Mythical""",0.2,2.1,"""Grass""",NULL
+492,1407,"""Shaymin""","""Gratitude Pokémon""","""Sky""","""Mythical""",0.4,5.2,"""Grass""","""Flying"""
+493,741,"""Arceus""","""Alpha Pokémon""",NULL,"""Mythical""",3.2,320,"""Normal""",NULL
+494,742,"""Victini""","""Victory Pokémon""",NULL,"""Mythical""",0.4,4,"""Psychic""","""Fire"""
+495,829,"""Snivy""","""Grass Snake Pokémon""",NULL,NULL,0.6,8.1,"""Grass""",NULL
+496,830,"""Servine""","""Grass Snake Pokémon""",NULL,NULL,0.8,16,"""Grass""",NULL
+497,831,"""Serperior""","""Regal Pokémon""",NULL,NULL,3.3,63,"""Grass""",NULL
+498,832,"""Tepig""","""Fire Pig Pokémon""",NULL,NULL,0.5,9.9,"""Fire""",NULL
+499,833,"""Pignite""","""Fire Pig Pokémon""",NULL,NULL,1,55.5,"""Fire""","""Fighting"""
+500,834,"""Emboar""","""Mega Fire Pig Pokémon""",NULL,NULL,1.6,150,"""Fire""","""Fighting"""
+501,835,"""Oshawott""","""Sea Otter Pokémon""",NULL,NULL,0.5,5.9,"""Water""",NULL
+502,836,"""Dewott""","""Discipline Pokémon""",NULL,NULL,0.8,24.5,"""Water""",NULL
+503,837,"""Samurott""","""Formidable Pokémon""",NULL,NULL,1.5,94.6,"""Water""",NULL
+503,1629,"""Samurott""","""Formidable Pokémon""","""Hisui""",NULL,1.5,58.2,"""Water""","""Dark"""
+504,838,"""Patrat""","""Scout Pokémon""",NULL,NULL,0.5,11.6,"""Normal""",NULL
+505,839,"""Watchog""","""Lookout Pokémon""",NULL,NULL,1.1,27,"""Normal""",NULL
+506,840,"""Lillipup""","""Puppy Pokémon""",NULL,NULL,0.4,4.1,"""Normal""",NULL
+507,841,"""Herdier""","""Loyal Dog Pokémon""",NULL,NULL,0.9,14.7,"""Normal""",NULL
+508,842,"""Stoutland""","""Big-Hearted Pokémon""",NULL,NULL,1.2,61,"""Normal""",NULL
+509,843,"""Purrloin""","""Devious Pokémon""",NULL,NULL,0.4,10.1,"""Dark""",NULL
+510,844,"""Liepard""","""Cruel Pokémon""",NULL,NULL,1.1,37.5,"""Dark""",NULL
+511,845,"""Pansage""","""Grass Monkey Pokémon""",NULL,NULL,0.6,10.5,"""Grass""",NULL
+512,846,"""Simisage""","""Thorn Monkey Pokémon""",NULL,NULL,1.1,30.5,"""Grass""",NULL
+513,847,"""Pansear""","""High Temp Pokémon""",NULL,NULL,0.6,11,"""Fire""",NULL
+514,848,"""Simisear""","""Ember Pokémon""",NULL,NULL,1,28,"""Fire""",NULL
+515,849,"""Panpour""","""Spray Pokémon""",NULL,NULL,0.6,13.5,"""Water""",NULL
+516,850,"""Simipour""","""Geyser Pokémon""",NULL,NULL,1,29,"""Water""",NULL
+517,851,"""Munna""","""Dream Eater Pokémon""",NULL,NULL,0.6,23.3,"""Psychic""",NULL
+518,852,"""Musharna""","""Drowsing Pokémon""",NULL,NULL,1.1,60.5,"""Psychic""",NULL
+519,853,"""Pidove""","""Tiny Pigeon Pokémon""",NULL,NULL,0.3,2.1,"""Normal""","""Flying"""
+520,854,"""Tranquill""","""Wild Pigeon Pokémon""",NULL,NULL,0.6,15,"""Normal""","""Flying"""
+521,855,"""Unfezant""","""Proud Pokémon""",NULL,NULL,1.2,29,"""Normal""","""Flying"""
+522,856,"""Blitzle""","""Electrified Pokémon""",NULL,NULL,0.8,29.8,"""Electric""",NULL
+523,857,"""Zebstrika""","""Thunderbolt Pokémon""",NULL,NULL,1.6,79.5,"""Electric""",NULL
+524,858,"""Roggenrola""","""Mantle Pokémon""",NULL,NULL,0.4,18,"""Rock""",NULL
+525,859,"""Boldore""","""Ore Pokémon""",NULL,NULL,0.9,102,"""Rock""",NULL
+526,860,"""Gigalith""","""Compressed Pokémon""",NULL,NULL,1.7,260,"""Rock""",NULL
+527,861,"""Woobat""","""Bat Pokémon""",NULL,NULL,0.4,2.1,"""Psychic""","""Flying"""
+528,862,"""Swoobat""","""Courting Pokémon""",NULL,NULL,0.9,10.5,"""Psychic""","""Flying"""
+529,863,"""Drilbur""","""Mole Pokémon""",NULL,NULL,0.3,8.5,"""Ground""",NULL
+530,864,"""Excadrill""","""Subterrene Pokémon""",NULL,NULL,0.7,40.4,"""Ground""","""Steel"""
+531,865,"""Audino""","""Hearing Pokémon""",NULL,NULL,1.1,31,"""Normal""",NULL
+531,1563,"""Audino""","""Hearing Pokémon""","""Mega""",NULL,1.5,32,"""Normal""","""Fairy"""
+532,866,"""Timburr""","""Muscular Pokémon""",NULL,NULL,0.6,12.5,"""Fighting""",NULL
+533,867,"""Gurdurr""","""Muscular Pokémon""",NULL,NULL,1.2,40,"""Fighting""",NULL
+534,868,"""Conkeldurr""","""Muscular Pokémon""",NULL,NULL,1.4,87,"""Fighting""",NULL
+535,869,"""Tympole""","""Tadpole Pokémon""",NULL,NULL,0.5,4.5,"""Water""",NULL
+536,870,"""Palpitoad""","""Vibration Pokémon""",NULL,NULL,0.8,17,"""Water""","""Ground"""
+537,871,"""Seismitoad""","""Vibration Pokémon""",NULL,NULL,1.5,62,"""Water""","""Ground"""
+538,872,"""Throh""","""Judo Pokémon""",NULL,NULL,1.3,55.5,"""Fighting""",NULL
+539,873,"""Sawk""","""Karate Pokémon""",NULL,NULL,1.4,41,"""Fighting""",NULL
+540,874,"""Sewaddle""","""Sewing Pokémon""",NULL,NULL,0.3,2.5,"""Bug""","""Grass"""
+541,875,"""Swadloon""","""Leaf-Wrapped Pokémon""",NULL,NULL,0.5,7.3,"""Bug""","""Grass"""
+542,876,"""Leavanny""","""Nurturing Pokémon""",NULL,NULL,1.2,20.5,"""Bug""","""Grass"""
+543,877,"""Venipede""","""Centipede Pokémon""",NULL,NULL,0.4,5.3,"""Bug""","""Poison"""
+544,878,"""Whirlipede""","""Curlipede Pokémon""",NULL,NULL,1.2,58.5,"""Bug""","""Poison"""
+545,879,"""Scolipede""","""Megapede Pokémon""",NULL,NULL,2.5,200.5,"""Bug""","""Poison"""
+546,880,"""Cottonee""","""Cotton Puff Pokémon""",NULL,NULL,0.3,0.6,"""Grass""","""Fairy"""
+547,881,"""Whimsicott""","""Windveiled Pokémon""",NULL,NULL,0.7,6.6,"""Grass""","""Fairy"""
+548,882,"""Petilil""","""Bulb Pokémon""",NULL,NULL,0.5,6.6,"""Grass""",NULL
+549,883,"""Lilligant""","""Flowering Pokémon""",NULL,NULL,1.1,16.3,"""Grass""",NULL
+549,1640,"""Lilligant""","""Spinning Pokémon""","""Hisui""",NULL,1.2,19.2,"""Grass""","""Fighting"""
+550,1623,"""Basculin""","""Mellow Pokémon""","""White-Striped""",NULL,1,18,"""Water""",NULL
+550,1414,"""Basculin""","""Hostile Pokémon""","""Blue-Striped""",NULL,1,18,"""Water""",NULL
+550,885,"""Basculin""","""Hostile Pokémon""",NULL,NULL,1,18,"""Water""",NULL
+551,886,"""Sandile""","""Desert Croc Pokémon""",NULL,NULL,0.7,15.2,"""Ground""","""Dark"""
+552,887,"""Krokorok""","""Desert Croc Pokémon""",NULL,NULL,1,33.4,"""Ground""","""Dark"""
+553,888,"""Krookodile""","""Intimidation Pokémon""",NULL,NULL,1.5,96.3,"""Ground""","""Dark"""
+554,889,"""Darumaka""","""Zen Charm Pokémon""",NULL,NULL,0.6,37.5,"""Fire""",NULL
+554,1557,"""Darumaka""","""Zen Charm Pokémon""","""Galar""",NULL,0.7,40,"""Ice""",NULL
+555,1554,"""Darmanitan""","""Blazing Pokémon""","""Zen""",NULL,1.3,92.9,"""Fire""","""Psychic"""
+555,1555,"""Darmanitan""","""Zen Charm Pokémon""","""Galar""",NULL,1.7,120,"""Ice""",NULL
+555,1556,"""Darmanitan""","""Zen Charm Pokémon""","""Galar Zen""",NULL,1.7,120,"""Ice""","""Fire"""
+555,890,"""Darmanitan""","""Blazing Pokémon""",NULL,NULL,1.3,92.9,"""Fire""",NULL
+556,891,"""Maractus""","""Cactus Pokémon""",NULL,NULL,1,28,"""Grass""",NULL
+557,892,"""Dwebble""","""Rock Inn Pokémon""",NULL,NULL,0.3,14.5,"""Bug""","""Rock"""
+558,893,"""Crustle""","""Stone Home Pokémon""",NULL,NULL,1.4,200,"""Bug""","""Rock"""
+559,894,"""Scraggy""","""Shedding Pokémon""",NULL,NULL,0.6,11.8,"""Dark""","""Fighting"""
+560,914,"""Scrafty""","""Hoodlum Pokémon""",NULL,NULL,1.1,30,"""Dark""","""Fighting"""
+561,915,"""Sigilyph""","""Avianoid Pokémon""",NULL,NULL,1.4,14,"""Psychic""","""Flying"""
+562,916,"""Yamask""","""Spirit Pokémon""",NULL,NULL,0.5,1.5,"""Ghost""",NULL
+562,1464,"""Yamask""","""Spirit Pokémon""","""Galar""",NULL,0.5,1.5,"""Ground""","""Ghost"""
+563,917,"""Cofagrigus""","""Coffin Pokémon""",NULL,NULL,1.7,76.5,"""Ghost""",NULL
+564,918,"""Tirtouga""","""Prototurtle Pokémon""",NULL,NULL,0.7,16.5,"""Water""","""Rock"""
+565,919,"""Carracosta""","""Prototurtle Pokémon""",NULL,NULL,1.2,81,"""Water""","""Rock"""
+566,920,"""Archen""","""First Bird Pokémon""",NULL,NULL,0.5,9.5,"""Rock""","""Flying"""
+567,921,"""Archeops""","""First Bird Pokémon""",NULL,NULL,1.4,32,"""Rock""","""Flying"""
+568,922,"""Trubbish""","""Trash Bag Pokémon""",NULL,NULL,0.6,31,"""Poison""",NULL
+569,923,"""Garbodor""","""Trash Heap Pokémon""",NULL,NULL,1.9,107.3,"""Poison""",NULL
+569,1551,"""Garbodor""","""Trash Heap Pokémon""","""Gigantamax""",NULL,21,0,"""Poison""",NULL
+570,1617,"""Zorua""","""Spiteful Fox Pokémon""","""Hisui""",NULL,0.7,12.5,"""Normal""","""Ghost"""
+570,939,"""Zorua""","""Tricky Fox Pokémon""",NULL,NULL,0.7,12.5,"""Dark""",NULL
+571,940,"""Zoroark""","""Illusion Fox Pokémon""",NULL,NULL,1.6,81.1,"""Dark""",NULL
+571,1619,"""Zoroark""","""Baneful Fox Pokémon""","""Hisui""",NULL,1.6,73,"""Normal""","""Ghost"""
+572,941,"""Minccino""","""Chinchilla Pokémon""",NULL,NULL,0.4,5.8,"""Normal""",NULL
+573,942,"""Cinccino""","""Scarf Pokémon""",NULL,NULL,0.5,7.5,"""Normal""",NULL
+574,943,"""Gothita""","""Fixation Pokémon""",NULL,NULL,0.4,5.8,"""Psychic""",NULL
+575,944,"""Gothorita""","""Manipulate Pokémon""",NULL,NULL,0.7,18,"""Psychic""",NULL
+576,945,"""Gothitelle""","""Astral Body Pokémon""",NULL,NULL,1.5,44,"""Psychic""",NULL
+577,946,"""Solosis""","""Cell Pokémon""",NULL,NULL,0.3,1,"""Psychic""",NULL
+578,947,"""Duosion""","""Mitosis Pokémon""",NULL,NULL,0.6,8,"""Psychic""",NULL
+579,948,"""Reuniclus""","""Multiplying Pokémon""",NULL,NULL,1,20.1,"""Psychic""",NULL
+580,950,"""Ducklett""","""Water Bird Pokémon""",NULL,NULL,0.5,5.5,"""Water""","""Flying"""
+581,951,"""Swanna""","""White Bird Pokémon""",NULL,NULL,1.3,24.2,"""Water""","""Flying"""
+582,952,"""Vanillite""","""Fresh Snow Pokémon""",NULL,NULL,0.4,5.7,"""Ice""",NULL
+583,953,"""Vanillish""","""Icy Snow Pokémon""",NULL,NULL,1.1,41,"""Ice""",NULL
+584,954,"""Vanilluxe""","""Snowstorm Pokémon""",NULL,NULL,1.3,57.5,"""Ice""",NULL
+585,955,"""Deerling""","""Season Pokémon""",NULL,NULL,0.6,19.5,"""Normal""","""Grass"""
+586,956,"""Sawsbuck""","""Season Pokémon""",NULL,NULL,1.9,92.5,"""Normal""","""Grass"""
+587,957,"""Emolga""","""Sky Squirrel Pokémon""",NULL,NULL,0.4,5,"""Electric""","""Flying"""
+588,958,"""Karrablast""","""Clamping Pokémon""",NULL,NULL,0.5,5.9,"""Bug""",NULL
+589,959,"""Escavalier""","""Cavalry Pokémon""",NULL,NULL,1,33,"""Bug""","""Steel"""
+590,961,"""Foongus""","""Mushroom Pokémon""",NULL,NULL,0.2,1,"""Grass""","""Poison"""
+591,962,"""Amoonguss""","""Mushroom Pokémon""",NULL,NULL,0.6,10.5,"""Grass""","""Poison"""
+592,963,"""Frillish""","""Floating Pokémon""",NULL,NULL,1.2,33,"""Water""","""Ghost"""
+593,964,"""Jellicent""","""Floating Pokémon""",NULL,NULL,2.2,135,"""Water""","""Ghost"""
+594,965,"""Alomomola""","""Caring Pokémon""",NULL,NULL,1.2,31.6,"""Water""",NULL
+595,966,"""Joltik""","""Attaching Pokémon""",NULL,NULL,0.1,0.6,"""Bug""","""Electric"""
+596,967,"""Galvantula""","""EleSpider Pokémon""",NULL,NULL,0.8,14.3,"""Bug""","""Electric"""
+597,968,"""Ferroseed""","""Thorn Seed Pokémon""",NULL,NULL,0.6,18.8,"""Grass""","""Steel"""
+598,969,"""Ferrothorn""","""Thorn Pod Pokémon""",NULL,NULL,1,110,"""Grass""","""Steel"""
+599,970,"""Klink""","""Gear Pokémon""",NULL,NULL,0.3,21,"""Steel""",NULL
+600,972,"""Klang""","""Gear Pokémon""",NULL,NULL,0.6,51,"""Steel""",NULL
+601,973,"""Klinklang""","""Gear Pokémon""",NULL,NULL,0.6,81,"""Steel""",NULL
+602,974,"""Tynamo""","""EleFish Pokémon""",NULL,NULL,0.2,0.3,"""Electric""",NULL
+603,975,"""Eelektrik""","""EleFish Pokémon""",NULL,NULL,1.2,22,"""Electric""",NULL
+604,976,"""Eelektross""","""EleFish Pokémon""",NULL,NULL,2.1,80.5,"""Electric""",NULL
+605,977,"""Elgyem""","""Cerebral Pokémon""",NULL,NULL,0.5,9,"""Psychic""",NULL
+606,978,"""Beheeyem""","""Cerebral Pokémon""",NULL,NULL,1,34.5,"""Psychic""",NULL
+607,979,"""Litwick""","""Candle Pokémon""",NULL,NULL,0.3,3.1,"""Ghost""","""Fire"""
+608,980,"""Lampent""","""Lamp Pokémon""",NULL,NULL,0.6,13,"""Ghost""","""Fire"""
+609,981,"""Chandelure""","""Luring Pokémon""",NULL,NULL,1,34.3,"""Ghost""","""Fire"""
+610,983,"""Axew""","""Tusk Pokémon""",NULL,NULL,0.6,18,"""Dragon""",NULL
+611,984,"""Fraxure""","""Axe Jaw Pokémon""",NULL,NULL,1,36,"""Dragon""",NULL
+612,985,"""Haxorus""","""Axe Jaw Pokémon""",NULL,NULL,1.8,105.5,"""Dragon""",NULL
+613,986,"""Cubchoo""","""Chill Pokémon""",NULL,NULL,0.5,8.5,"""Ice""",NULL
+614,987,"""Beartic""","""Freezing Pokémon""",NULL,NULL,2.6,260,"""Ice""",NULL
+615,988,"""Cryogonal""","""Crystallizing Pokémon""",NULL,NULL,1.1,148,"""Ice""",NULL
+616,989,"""Shelmet""","""Snail Pokémon""",NULL,NULL,0.4,7.7,"""Bug""",NULL
+617,990,"""Accelgor""","""Shell Out Pokémon""",NULL,NULL,0.8,25.3,"""Bug""",NULL
+618,991,"""Stunfisk""","""Trap Pokémon""",NULL,NULL,0.7,11,"""Ground""","""Electric"""
+618,1553,"""Stunfisk""","""Trap Pokémon""","""Galar""",NULL,0.7,20.5,"""Ground""","""Steel"""
+619,992,"""Mienfoo""","""Martial Arts Pokémon""",NULL,NULL,0.9,20,"""Fighting""",NULL
+620,994,"""Mienshao""","""Martial Arts Pokémon""",NULL,NULL,1.4,35.5,"""Fighting""",NULL
+621,995,"""Druddigon""","""Cave Pokémon""",NULL,NULL,1.6,139,"""Dragon""",NULL
+622,996,"""Golett""","""Automaton Pokémon""",NULL,NULL,1,92,"""Ground""","""Ghost"""
+623,997,"""Golurk""","""Automaton Pokémon""",NULL,NULL,2.8,330,"""Ground""","""Ghost"""
+624,998,"""Pawniard""","""Sharp Blade Pokémon""",NULL,NULL,0.5,10.2,"""Dark""","""Steel"""
+625,999,"""Bisharp""","""Sword Blade Pokémon""",NULL,NULL,1.6,70,"""Dark""","""Steel"""
+626,1000,"""Bouffalant""","""Bash Buffalo Pokémon""",NULL,NULL,1.6,94.5,"""Normal""",NULL
+627,1001,"""Rufflet""","""Eaglet Pokémon""",NULL,NULL,0.5,10.5,"""Normal""","""Flying"""
+628,1002,"""Braviary""","""Valiant Pokémon""",NULL,NULL,1.5,41,"""Normal""","""Flying"""
+628,1614,"""Braviary""","""Battle Cry Pokémon""","""Hisui""",NULL,1.7,43.4,"""Psychic""","""Flying"""
+629,1003,"""Vullaby""","""Diapered Pokémon""",NULL,NULL,0.5,9,"""Dark""","""Flying"""
+630,1005,"""Mandibuzz""","""Bone Vulture Pokémon""",NULL,NULL,1.2,39.5,"""Dark""","""Flying"""
+631,1006,"""Heatmor""","""Anteater Pokémon""",NULL,NULL,1.4,58,"""Fire""",NULL
+632,1007,"""Durant""","""Iron Ant Pokémon""",NULL,NULL,0.3,33,"""Bug""","""Steel"""
+633,1008,"""Deino""","""Irate Pokémon""",NULL,NULL,0.8,17.3,"""Dark""","""Dragon"""
+634,1009,"""Zweilous""","""Hostile Pokémon""",NULL,NULL,1.4,50,"""Dark""","""Dragon"""
+635,1010,"""Hydreigon""","""Brutal Pokémon""",NULL,NULL,1.8,160,"""Dark""","""Dragon"""
+636,1011,"""Larvesta""","""Torch Pokémon""",NULL,NULL,1.1,28.8,"""Bug""","""Fire"""
+637,1012,"""Volcarona""","""Sun Pokémon""",NULL,NULL,1.6,46,"""Bug""","""Fire"""
+638,1013,"""Cobalion""","""Iron Will Pokémon""",NULL,"""Sub-Legendary""",2.1,250,"""Steel""","""Fighting"""
+639,1014,"""Terrakion""","""Cavern Pokémon""",NULL,"""Sub-Legendary""",1.9,260,"""Rock""","""Fighting"""
+640,1016,"""Virizion""","""Grassland Pokémon""",NULL,"""Sub-Legendary""",2,200,"""Grass""","""Fighting"""
+641,1017,"""Tornadus""","""Cyclone Pokémon""",NULL,"""Sub-Legendary""",1.5,63,"""Flying""",NULL
+641,1415,"""Tornadus""","""Cyclone Pokémon""","""Therian""","""Sub-Legendary""",1.5,63,"""Flying""",NULL
+642,1416,"""Thundurus""","""Bolt Strike Pokémon""","""Therian""","""Sub-Legendary""",3,61,"""Electric""","""Flying"""
+642,1018,"""Thundurus""","""Bolt Strike Pokémon""",NULL,"""Sub-Legendary""",1.5,61,"""Electric""","""Flying"""
+643,1019,"""Reshiram""","""Vast White Pokémon""",NULL,"""Legendary""",3.2,330,"""Dragon""","""Fire"""
+644,1020,"""Zekrom""","""Deep Black Pokémon""",NULL,"""Legendary""",2.9,345,"""Dragon""","""Electric"""
+645,1021,"""Landorus""","""Abundance Pokémon""",NULL,"""Sub-Legendary""",1.5,68,"""Ground""","""Flying"""
+645,1417,"""Landorus""","""Abundance Pokémon""","""Therian""","""Sub-Legendary""",1.3,68,"""Ground""","""Flying"""
+646,1421,"""Kyurem""","""Boundary Pokémon""","""White""","""Legendary""",3.6,325,"""Dragon""","""Ice"""
+646,1423,"""Kyurem""","""Boundary Pokémon""","""Black""","""Legendary""",3.3,325,"""Dragon""","""Ice"""
+646,1022,"""Kyurem""","""Boundary Pokémon""",NULL,"""Legendary""",3,325,"""Dragon""","""Ice"""
+647,1023,"""Keldeo""","""Colt Pokémon""",NULL,"""Mythical""",1.4,48.5,"""Water""","""Fighting"""
+648,1024,"""Meloetta""","""Melody Pokémon""",NULL,"""Mythical""",0.6,6.5,"""Normal""","""Psychic"""
+648,1570,"""Meloetta""","""Melody Pokémon""","""Pirouette""","""Mythical""",0.6,6.5,"""Normal""","""Fighting"""
+649,1025,"""Genesect""","""Paleozoic Pokémon""",NULL,"""Mythical""",1.5,82.5,"""Bug""","""Steel"""
+650,1066,"""Chespin""","""Spiky Nut Pokémon""",NULL,NULL,0.4,9,"""Grass""",NULL
+651,1067,"""Quilladin""","""Spiky Armor Pokémon""",NULL,NULL,0.7,29,"""Grass""",NULL
+652,1068,"""Chesnaught""","""Spiky Armor Pokémon""",NULL,NULL,1.6,90,"""Grass""","""Fighting"""
+653,1069,"""Fennekin""","""Fox Pokémon""",NULL,NULL,0.4,9.4,"""Fire""",NULL
+654,1070,"""Braixen""","""Fox Pokémon""",NULL,NULL,1,14.5,"""Fire""",NULL
+655,1071,"""Delphox""","""Fox Pokémon""",NULL,NULL,1.5,39,"""Fire""","""Psychic"""
+656,1072,"""Froakie""","""Bubble Frog Pokémon""",NULL,NULL,0.3,7,"""Water""",NULL
+657,1073,"""Frogadier""","""Bubble Frog Pokémon""",NULL,NULL,0.6,10.9,"""Water""",NULL
+658,1074,"""Greninja""","""Ninja Pokémon""",NULL,NULL,1.5,40,"""Water""","""Dark"""
+658,1427,"""Greninja""","""Ninja Pokémon""","""Ash""",NULL,1.5,40,"""Water""","""Dark"""
+659,1075,"""Bunnelby""","""Digging Pokémon""",NULL,NULL,0.4,5,"""Normal""",NULL
+660,1077,"""Diggersby""","""Digging Pokémon""",NULL,NULL,1,42.4,"""Normal""","""Ground"""
+661,1078,"""Fletchling""","""Tiny Robin Pokémon""",NULL,NULL,0.3,1.7,"""Normal""","""Flying"""
+662,1079,"""Fletchinder""","""Ember Pokémon""",NULL,NULL,0.7,16,"""Fire""","""Flying"""
+663,1080,"""Talonflame""","""Scorching Pokémon""",NULL,NULL,1.2,24.5,"""Fire""","""Flying"""
+664,1081,"""Scatterbug""","""Scatterdust Pokémon""",NULL,NULL,0.3,2.5,"""Bug""",NULL
+665,1082,"""Spewpa""","""Scatterdust Pokémon""",NULL,NULL,0.3,8.4,"""Bug""",NULL
+666,1083,"""Vivillon""","""Scale Pokémon""",NULL,NULL,1.2,17,"""Bug""","""Flying"""
+667,1084,"""Litleo""","""Lion Cub Pokémon""",NULL,NULL,0.6,13.5,"""Fire""","""Normal"""
+668,1085,"""Pyroar""","""Royal Pokémon""",NULL,NULL,1.5,81.5,"""Fire""","""Normal"""
+669,1086,"""Flabébé""","""Single Bloom Pokémon""",NULL,NULL,0.1,0.1,"""Fairy""",NULL
+670,1088,"""Floette""","""Single Bloom Pokémon""",NULL,NULL,0.2,0.9,"""Fairy""",NULL
+671,1089,"""Florges""","""Garden Pokémon""",NULL,NULL,1.1,10,"""Fairy""",NULL
+672,1090,"""Skiddo""","""Mount Pokémon""",NULL,NULL,0.9,31,"""Grass""",NULL
+673,1091,"""Gogoat""","""Mount Pokémon""",NULL,NULL,1.7,91,"""Grass""",NULL
+674,1092,"""Pancham""","""Playful Pokémon""",NULL,NULL,0.6,8,"""Fighting""",NULL
+675,1093,"""Pangoro""","""Daunting Pokémon""",NULL,NULL,2.1,136,"""Fighting""","""Dark"""
+676,1094,"""Furfrou""","""Poodle Pokémon""",NULL,NULL,1.2,28,"""Normal""",NULL
+677,1095,"""Espurr""","""Restraint Pokémon""",NULL,NULL,0.3,3.5,"""Psychic""",NULL
+678,1096,"""Meowstic""","""Constraint Pokémon""",NULL,NULL,0.6,8.5,"""Psychic""",NULL
+678,1580,"""Meowstic""","""Constraint Pokémon""","""Female""",NULL,0.6,8.5,"""Psychic""",NULL
+679,25,"""Honedge""","""Sword Pokémon""",NULL,NULL,0.8,2,"""Steel""","""Ghost"""
+680,26,"""Doublade""","""Sword Pokémon""",NULL,NULL,0.8,4.5,"""Steel""","""Ghost"""
+681,1098,"""Aegislash""","""Royal Sword Pokémon""",NULL,NULL,1.7,53,"""Steel""","""Ghost"""
+681,1370,"""Aegislash""","""Royal Sword Pokémon""","""Blade""",NULL,1.7,53,"""Steel""","""Ghost"""
+682,1101,"""Spritzee""","""Perfume Pokémon""",NULL,NULL,0.2,0.5,"""Fairy""",NULL
+683,1102,"""Aromatisse""","""Fragrance Pokémon""",NULL,NULL,0.8,15.5,"""Fairy""",NULL
+684,1103,"""Swirlix""","""Cotton Candy Pokémon""",NULL,NULL,0.4,3.5,"""Fairy""",NULL
+685,1104,"""Slurpuff""","""Meringue Pokémon""",NULL,NULL,0.8,5,"""Fairy""",NULL
+686,1105,"""Inkay""","""Revolving Pokémon""",NULL,NULL,0.4,3.5,"""Dark""","""Psychic"""
+687,1106,"""Malamar""","""Overturning Pokémon""",NULL,NULL,1.5,47,"""Dark""","""Psychic"""
+688,1107,"""Binacle""","""Two-Handed Pokémon""",NULL,NULL,0.5,31,"""Rock""","""Water"""
+689,1108,"""Barbaracle""","""Collective Pokémon""",NULL,NULL,1.3,96,"""Rock""","""Water"""
+690,1110,"""Skrelp""","""Mock Kelp Pokémon""",NULL,NULL,0.5,7.3,"""Poison""","""Water"""
+691,1111,"""Dragalge""","""Mock Kelp Pokémon""",NULL,NULL,1.8,81.5,"""Poison""","""Dragon"""
+692,1112,"""Clauncher""","""Water Gun Pokémon""",NULL,NULL,0.5,8.3,"""Water""",NULL
+693,1113,"""Clawitzer""","""Howitzer Pokémon""",NULL,NULL,1.3,35.3,"""Water""",NULL
+694,1122,"""Helioptile""","""Generator Pokémon""",NULL,NULL,0.5,6,"""Electric""","""Normal"""
+695,1123,"""Heliolisk""","""Generator Pokémon""",NULL,NULL,1,21,"""Electric""","""Normal"""
+696,1124,"""Tyrunt""","""Royal Heir Pokémon""",NULL,NULL,0.8,26,"""Rock""","""Dragon"""
+697,1125,"""Tyrantrum""","""Despot Pokémon""",NULL,NULL,2.5,270,"""Rock""","""Dragon"""
+698,1126,"""Amaura""","""Tundra Pokémon""",NULL,NULL,1.3,25.2,"""Rock""","""Ice"""
+699,1127,"""Aurorus""","""Tundra Pokémon""",NULL,NULL,2.7,225,"""Rock""","""Ice"""
+700,1129,"""Sylveon""","""Interwining Pokémon""",NULL,NULL,1,23.5,"""Fairy""",NULL
+700,1129,"""Sylveon""","""Interwining Pokémon""",NULL,NULL,1,23.5,"""Fairy""",NULL
+701,1130,"""Hawlucha""","""Wrestling Pokémon""",NULL,NULL,0.8,21.5,"""Fighting""","""Flying"""
+702,1131,"""Dedenne""","""Antenna Pokémon""",NULL,NULL,0.2,2.2,"""Electric""","""Fairy"""
+703,1132,"""Carbink""","""Jewel Pokémon""",NULL,NULL,0.3,5.7,"""Rock""","""Fairy"""
+704,1133,"""Goomy""","""Soft Tissue Pokémon""",NULL,NULL,0.3,2.8,"""Dragon""",NULL
+705,1134,"""Sliggoo""","""Soft Tissue Pokémon""",NULL,NULL,0.8,17.5,"""Dragon""",NULL
+705,1637,"""Sliggoo""","""Snail Pokémon""","""Hisui""",NULL,0.7,68.5,"""Steel""","""Dragon"""
+706,1638,"""Goodra""","""Shell Bunker Pokémon""","""Hisui""",NULL,1.7,334.1,"""Steel""","""Dragon"""
+706,1135,"""Goodra""","""Dragon Pokémon""",NULL,NULL,2,150.5,"""Dragon""",NULL
+707,1136,"""Klefki""","""Key Ring Pokémon""",NULL,NULL,0.2,3,"""Steel""","""Fairy"""
+708,1137,"""Phantump""","""Stump Pokémon""",NULL,NULL,0.4,7,"""Ghost""","""Grass"""
+709,1138,"""Trevenant""","""Elder Tree Pokémon""",NULL,NULL,1.5,71,"""Ghost""","""Grass"""
+710,1140,"""Pumpkaboo""","""Pumpkin Pokémon""",NULL,NULL,0.4,5,"""Ghost""","""Grass"""
+711,1141,"""Gourgeist""","""Pumpkin Pokémon""",NULL,NULL,0.9,12.5,"""Ghost""","""Grass"""
+712,1142,"""Bergmite""","""Ice Chunk Pokémon""",NULL,NULL,1,99.5,"""Ice""",NULL
+713,1143,"""Avalugg""","""Iceberg Pokémon""",NULL,NULL,2,505,"""Ice""",NULL
+713,1639,"""Avalugg""","""Iceberg Pokémon""","""Hisui""",NULL,1.4,262.4,"""Ice""","""Rock"""
+714,1144,"""Noibat""","""Sound Wave Pokémon""",NULL,NULL,0.5,8,"""Flying""","""Dragon"""
+715,1145,"""Noivern""","""Sound Wave Pokémon""",NULL,NULL,1.5,85,"""Flying""","""Dragon"""
+716,1146,"""Xerneas""","""Life Pokémon""",NULL,"""Legendary""",3,215,"""Fairy""",NULL
+717,1147,"""Yveltal""","""Destruction Pokémon""",NULL,"""Legendary""",5.8,203,"""Dark""","""Flying"""
+718,1148,"""Zygarde""","""Order Pokémon""",NULL,"""Legendary""",5,305,"""Dragon""","""Ground"""
+718,1577,"""Zygarde""","""Order Pokémon""","""10%""","""Legendary""",1.2,33.5,"""Dragon""","""Ground"""
+718,1578,"""Zygarde""","""Order Pokémon""","""Complete""","""Legendary""",4.5,610,"""Dragon""","""Ground"""
+719,1594,"""Diancie""","""Jewel Pokémon""","""Mega""","""Mythical""",1.1,27.8,"""Rock""","""Fairy"""
+719,1149,"""Diancie""","""Jewel Pokémon""",NULL,"""Mythical""",0.7,8.8,"""Rock""","""Fairy"""
+720,1151,"""Hoopa""","""Mischief Pokémon""",NULL,"""Mythical""",0.5,9,"""Psychic""","""Ghost"""
+720,1579,"""Hoopa""","""Djinn Pokémon""","""Unbound""","""Mythical""",6.5,490,"""Psychic""","""Dark"""
+721,1152,"""Volcanion""","""Steam Pokémon""",NULL,"""Mythical""",1.7,195,"""Fire""","""Water"""
+722,1246,"""Rowlet""","""Grass Quill Pokémon""",NULL,NULL,0.3,1.5,"""Grass""","""Flying"""
+723,1247,"""Dartrix""","""Blade Quill Pokémon""",NULL,NULL,0.7,16,"""Grass""","""Flying"""
+724,1248,"""Decidueye""","""Arrow Quill Pokémon""",NULL,NULL,1.6,36.6,"""Grass""","""Ghost"""
+724,1627,"""Decidueye""","""Arrow Quill Pokémon""","""Hisui""",NULL,1.6,37,"""Grass""","""Fighting"""
+725,1249,"""Litten""","""Fire Cat Pokémon""",NULL,NULL,0.4,4.3,"""Fire""",NULL
+726,1250,"""Torracat""","""Fire Cat Pokémon""",NULL,NULL,0.7,25,"""Fire""",NULL
+727,1251,"""Incineroar""","""Heel Pokémon""",NULL,NULL,1.8,83,"""Fire""","""Dark"""
+728,1252,"""Popplio""","""Sea Lion Pokémon""",NULL,NULL,0.4,7.5,"""Water""",NULL
+729,1253,"""Brionne""","""Pop Star Pokémon""",NULL,NULL,0.6,17.5,"""Water""",NULL
+730,1255,"""Primarina""","""Soloist Pokémon""",NULL,NULL,1.8,44,"""Water""","""Fairy"""
+731,1256,"""Pikipek""","""Woodpecker Pokémon""",NULL,NULL,0.3,1.2,"""Normal""","""Flying"""
+732,1257,"""Trumbeak""","""Bugle Beak Pokémon""",NULL,NULL,0.6,14.8,"""Normal""","""Flying"""
+733,1258,"""Toucannon""","""Cannon Pokémon""",NULL,NULL,1.1,26,"""Normal""","""Flying"""
+734,1259,"""Yungoos""","""Loitering Pokémon""",NULL,NULL,0.4,6,"""Normal""",NULL
+735,1260,"""Gumshoos""","""Stakeout Pokémon""",NULL,NULL,0.7,14.2,"""Normal""",NULL
+736,1261,"""Grubbin""","""Larva Pokémon""",NULL,NULL,0.4,4.4,"""Bug""",NULL
+737,1262,"""Charjabug""","""Battery Pokémon""",NULL,NULL,0.5,10.5,"""Bug""","""Electric"""
+738,1263,"""Vikavolt""","""Stag Beetle Pokémon""",NULL,NULL,1.5,45,"""Bug""","""Electric"""
+738,1263,"""Vikavolt""","""Stag Beetle Pokémon""",NULL,NULL,1.5,45,"""Bug""","""Electric"""
+739,1264,"""Crabrawler""","""Boxing Pokémon""",NULL,NULL,0.6,7,"""Fighting""",NULL
+740,1266,"""Crabominable""","""Woolly Crab Pokémon""",NULL,NULL,1.7,180,"""Fighting""","""Ice"""
+740,1266,"""Crabominable""","""Woolly Crab Pokémon""",NULL,NULL,1.7,180,"""Fighting""","""Ice"""
+741,1267,"""Oricorio""","""Dancing Pokémon""",NULL,NULL,0.6,3.4,"""Fire""","""Flying"""
+741,1582,"""Oricorio""","""Dancing Pokémon""","""Pom-Pom""",NULL,0.6,3.4,"""Electric""","""Flying"""
+741,1583,"""Oricorio""","""Dancing Pokémon""","""Pa'u""",NULL,0.6,3.4,"""Psychic""","""Flying"""
+741,1584,"""Oricorio""","""Dancing Pokémon""","""Sensu""",NULL,0.6,3.4,"""Ghost""","""Flying"""
+742,1268,"""Cutiefly""","""Bee Fly Pokémon""",NULL,NULL,0.1,0.2,"""Bug""","""Fairy"""
+743,1269,"""Ribombee""","""Bee Fly Pokémon""",NULL,NULL,0.2,0.5,"""Bug""","""Fairy"""
+744,1270,"""Rockruff""","""Puppy Pokémon""",NULL,NULL,0.5,9.2,"""Rock""",NULL
+745,1271,"""Lycanroc""","""Wolf Pokémon""",NULL,NULL,0.8,25,"""Rock""",NULL
+745,1402,"""Lycanroc""","""Wolf Pokémon""","""Midnight""",NULL,1.1,25,"""Rock""",NULL
+745,1403,"""Lycanroc""","""Wolf Pokémon""","""Dusk""",NULL,0.8,25,"""Rock""",NULL
+746,1272,"""Wishiwashi""","""Small Fry Pokémon""",NULL,NULL,0.2,0.3,"""Water""",NULL
+746,1581,"""Wishiwashi""","""Small Fry Pokémon""","""School""",NULL,8.2,78.6,"""Water""",NULL
+747,1273,"""Mareanie""","""Brutal Star Pokémon""",NULL,NULL,0.4,8,"""Poison""","""Water"""
+748,1274,"""Toxapex""","""Brutal Pokémon""",NULL,NULL,0.7,14.5,"""Poison""","""Water"""
+749,1275,"""Mudbray""","""Donkey Pokémon""",NULL,NULL,1,110,"""Ground""",NULL
+750,1277,"""Mudsdale""","""Draft Horse Pokémon""",NULL,NULL,2.5,920,"""Ground""",NULL
+751,1278,"""Dewpider""","""Water Bubble Pokémon""",NULL,NULL,0.3,4,"""Water""","""Bug"""
+752,1279,"""Araquanid""","""Water Bubble Pokémon""",NULL,NULL,1.8,82,"""Water""","""Bug"""
+753,1280,"""Fomantis""","""Sickle Grass Pokémon""",NULL,NULL,0.3,1.5,"""Grass""",NULL
+754,1281,"""Lurantis""","""Bloom Sickle Pokémon""",NULL,NULL,0.9,18.5,"""Grass""",NULL
+755,1282,"""Morelull""","""Illuminating Pokémon""",NULL,NULL,0.2,1.5,"""Grass""","""Fairy"""
+756,1283,"""Shiinotic""","""Illuminating Pokémon""",NULL,NULL,1,11.5,"""Grass""","""Fairy"""
+757,1284,"""Salandit""","""Toxic Lizard Pokémon""",NULL,NULL,0.6,4.8,"""Poison""","""Fire"""
+758,1285,"""Salazzle""","""Toxic Lizard Pokémon""",NULL,NULL,1.2,22.2,"""Poison""","""Fire"""
+759,1286,"""Stufful""","""Flailing Pokémon""",NULL,NULL,0.5,6.8,"""Normal""","""Fighting"""
+760,1288,"""Bewear""","""Strong Arm Pokémon""",NULL,NULL,2.1,135,"""Normal""","""Fighting"""
+761,1289,"""Bounsweet""","""Fruit Pokémon""",NULL,NULL,0.3,3.2,"""Grass""",NULL
+762,1290,"""Steenee""","""Fruit Pokémon""",NULL,NULL,0.7,8.2,"""Grass""",NULL
+763,1291,"""Tsareena""","""Fruit Pokémon""",NULL,NULL,1.2,21.4,"""Grass""",NULL
+764,1292,"""Comfey""","""Posy Picker Pokémon""",NULL,NULL,0.1,0.3,"""Fairy""",NULL
+765,743,"""Oranguru""","""Sage Pokémon""",NULL,NULL,1.5,76,"""Normal""","""Psychic"""
+766,1293,"""Passimian""","""Teamwork Pokémon""",NULL,NULL,2,82.8,"""Fighting""",NULL
+767,1294,"""Wimpod""","""Turn Tail Pokémon""",NULL,NULL,0.5,12,"""Bug""","""Water"""
+768,1295,"""Golisopod""","""Hard Scale Pokémon""",NULL,NULL,2,108,"""Bug""","""Water"""
+769,1296,"""Sandygast""","""Sand Heap Pokémon""",NULL,NULL,0.5,70,"""Ghost""","""Ground"""
+770,1298,"""Palossand""","""Sand Castle Pokémon""",NULL,NULL,1.3,250,"""Ghost""","""Ground"""
+771,1299,"""Pyukumuku""","""Sea Cucumber Pokémon""",NULL,NULL,0.3,1.2,"""Water""",NULL
+772,1300,"""Type: Null""","""Synthetic Pokémon""",NULL,"""Sub-Legendary""",1.9,120.5,"""Normal""",NULL
+773,1301,"""Silvally""","""Synthetic Pokémon""",NULL,"""Sub-Legendary""",2.3,100.5,"""Normal""",NULL
+774,1302,"""Minior""","""Meteor Pokémon""",NULL,NULL,0.3,40,"""Rock""","""Flying"""
+774,1564,"""Minior""","""Meteor Pokémon""","""Core""",NULL,0.3,0.3,"""Rock""","""Flying"""
+775,1303,"""Komala""","""Drowsing Pokémon""",NULL,NULL,0.4,19.9,"""Normal""",NULL
+776,1304,"""Turtonator""","""Blast Turtle Pokémon""",NULL,NULL,2,212,"""Fire""","""Dragon"""
+777,1305,"""Togedemaru""","""Roly-Poly Pokémon""",NULL,NULL,0.3,3.3,"""Electric""","""Steel"""
+778,1306,"""Mimikyu""","""Disguise Pokémon""",NULL,NULL,0.2,0.7,"""Ghost""","""Fairy"""
+779,1307,"""Bruxish""","""Gnash Teeth Pokémon""",NULL,NULL,0.9,19,"""Water""","""Psychic"""
+780,1309,"""Drampa""","""Placid Pokémon""",NULL,NULL,3,185,"""Normal""","""Dragon"""
+781,1310,"""Dhelmise""","""Sea Creeper Pokémon""",NULL,NULL,3.9,210,"""Ghost""","""Grass"""
+782,1311,"""Jangmo-o""","""Scaly Pokémon""",NULL,NULL,0.6,29.7,"""Dragon""",NULL
+783,1312,"""Hakamo-o""","""Scaly Pokémon""",NULL,NULL,1.2,47,"""Dragon""","""Fighting"""
+784,1313,"""Kommo-o""","""Scaly Pokémon""",NULL,NULL,1.6,78.2,"""Dragon""","""Fighting"""
+785,1314,"""Tapu Koko""","""Land Spirit Pokémon""",NULL,"""Sub-Legendary""",1.8,20.5,"""Electric""","""Fairy"""
+786,1315,"""Tapu Lele""","""Land Spirit Pokémon""",NULL,"""Sub-Legendary""",1.2,18.6,"""Psychic""","""Fairy"""
+787,1316,"""Tapu Bulu""","""Land Spirit Pokémon""",NULL,"""Sub-Legendary""",1.9,45.5,"""Grass""","""Fairy"""
+788,1317,"""Tapu Fini""","""Land Spirit Pokémon""",NULL,"""Sub-Legendary""",1.3,21.2,"""Water""","""Fairy"""
+789,1318,"""Cosmog""","""Nebula Pokémon""",NULL,"""Legendary""",0.2,0.1,"""Psychic""",NULL
+790,1320,"""Cosmoem""","""Protostar Pokémon""",NULL,"""Legendary""",0.1,999.9,"""Psychic""",NULL
+791,1321,"""Solgaleo""","""Sunne Pokémon""",NULL,"""Legendary""",3.4,230,"""Psychic""","""Steel"""
+791,1321,"""Solgaleo""","""Sunne Pokémon""",NULL,"""Legendary""",3.4,230,"""Psychic""","""Steel"""
+792,1322,"""Lunala""","""Moone Pokémon""",NULL,"""Legendary""",4,120,"""Psychic""","""Ghost"""
+792,1322,"""Lunala""","""Moone Pokémon""",NULL,"""Legendary""",4,120,"""Psychic""","""Ghost"""
+793,1323,"""Nihilego""","""Parasite Pokémon""",NULL,"""Sub-Legendary""",1.2,55.5,"""Rock""","""Poison"""
+794,1324,"""Buzzwole""","""Swollen Pokémon""",NULL,"""Sub-Legendary""",2.4,333.6,"""Bug""","""Fighting"""
+795,1325,"""Pheromosa""","""Lissome Pokémon""",NULL,"""Sub-Legendary""",1.8,25,"""Bug""","""Fighting"""
+796,1326,"""Xurkitree""","""Glowing Pokémon""",NULL,"""Sub-Legendary""",3.8,100,"""Electric""",NULL
+797,1327,"""Celesteela""","""Launch Pokémon""",NULL,"""Sub-Legendary""",9.2,999.9,"""Steel""","""Flying"""
+798,1328,"""Kartana""","""Drawn Sword Pokémon""",NULL,"""Sub-Legendary""",0.3,0.1,"""Grass""","""Steel"""
+799,1329,"""Guzzlord""","""Junkivore Pokémon""",NULL,"""Sub-Legendary""",5.5,888,"""Dark""","""Dragon"""
+800,1404,"""Necrozma""","""Prism Pokémon""","""Dusk Mane""","""Legendary""",3.8,460,"""Psychic""","""Steel"""
+800,1405,"""Necrozma""","""Prism Pokémon""","""Dawn Wings""","""Legendary""",4.2,350,"""Psychic""","""Ghost"""
+800,1406,"""Necrozma""","""Prism Pokémon""","""Ultra""","""Legendary""",7.5,230,"""Psychic""","""Dragon"""
+800,1331,"""Necrozma""","""Prism Pokémon""",NULL,"""Legendary""",2.4,230,"""Psychic""",NULL
+801,1332,"""Magearna""","""Artificial Pokémon""",NULL,"""Mythical""",1,80.5,"""Steel""","""Fairy"""
+802,1333,"""Marshadow""","""Gloomdweller Pokémon""",NULL,"""Mythical""",0.7,22.2,"""Fighting""","""Ghost"""
+803,1334,"""Poipole""","""Poison Pin Pokémon""",NULL,"""Sub-Legendary""",0.6,1.8,"""Poison""",NULL
+804,1335,"""Naganadel""","""Poison Pin Pokémon""",NULL,"""Sub-Legendary""",3.6,150,"""Poison""","""Dragon"""
+805,1336,"""Stakataka""","""Rampart Pokémon""",NULL,"""Sub-Legendary""",5.5,820,"""Rock""","""Steel"""
+806,1337,"""Blacephalon""","""Fireworks Pokémon""",NULL,"""Sub-Legendary""",1.8,13,"""Fire""","""Ghost"""
+807,1338,"""Zeraora""","""Thunderclap Pokémon""",NULL,"""Mythical""",1.5,44.5,"""Electric""",NULL
+808,1339,"""Meltan""","""Hex Nut Pokémon""",NULL,"""Mythical""",0.2,8,"""Steel""",NULL
+809,1340,"""Melmetal""","""Hex Nut Pokémon""",NULL,"""Mythical""",2.5,800,"""Steel""",NULL
+809,1552,"""Melmetal""","""Hex Nut Pokémon""","""Gigantamax""","""Mythical""",25,0,"""Steel""",NULL
+810,1439,"""Grookey""","""Chimp Pokémon""",NULL,NULL,0.3,5,"""Grass""",NULL
+811,1440,"""Thwackey""","""Beat Pokémon""",NULL,NULL,0.7,14,"""Grass""",NULL
+812,1441,"""Rillaboom""","""Drummer Pokémon""",NULL,NULL,2.1,90,"""Grass""",NULL
+812,1529,"""Rillaboom""","""Drummer Pokémon""","""Gigantamax""",NULL,28,0,"""Grass""",NULL
+813,1442,"""Scorbunny""","""Rabbit Pokémon""",NULL,NULL,0.3,4.5,"""Fire""",NULL
+814,1443,"""Raboot""","""Rabbit Pokémon""",NULL,NULL,0.6,9,"""Fire""",NULL
+815,1444,"""Cinderace""","""Striker Pokémon""",NULL,NULL,1.4,33,"""Fire""",NULL
+815,1528,"""Cinderace""","""Striker Pokémon""","""Gigantamax""",NULL,27,0,"""Fire""",NULL
+816,1445,"""Sobble""","""Water Lizard Pokémon""",NULL,NULL,0.3,4,"""Water""",NULL
+817,1446,"""Drizzile""","""Water Lizard Pokémon""",NULL,NULL,0.7,11.5,"""Water""",NULL
+818,1447,"""Inteleon""","""Secret Agent Pokémon""",NULL,NULL,1.9,45.2,"""Water""",NULL
+818,1527,"""Inteleon""","""Secret Agent Pokémon""","""Gigantamax""",NULL,40,0,"""Water""",NULL
+819,1462,"""Skwovet""","""Cheeky Pokémon""",NULL,NULL,0.3,2.5,"""Normal""",NULL
+820,1463,"""Greedent""","""Greedy Pokémon""",NULL,NULL,0.6,6,"""Normal""",NULL
+821,1469,"""Rookidee""","""Tiny Bird Pokémon""",NULL,NULL,0.2,1.8,"""Flying""",NULL
+822,1470,"""Corvisquire""","""Raven Pokémon""",NULL,NULL,0.8,16,"""Flying""",NULL
+823,1471,"""Corviknight""","""Raven Pokémon""",NULL,NULL,2.2,75,"""Flying""","""Steel"""
+823,1544,"""Corviknight""","""Raven Pokémon""","""Gigantamax""",NULL,14,0,"""Flying""","""Steel"""
+824,1485,"""Blipbug""","""Larva Pokémon""",NULL,NULL,0.4,8,"""Bug""",NULL
+825,1486,"""Dottler""","""Radome Pokémon""",NULL,NULL,0.4,19.5,"""Bug""","""Psychic"""
+826,1487,"""Orbeetle""","""Seven Spot Pokémon""",NULL,NULL,0.4,40.8,"""Bug""","""Psychic"""
+826,1543,"""Orbeetle""","""Seven Spot Pokémon""","""Gigantamax""",NULL,14,0,"""Bug""","""Psychic"""
+827,1488,"""Nickit""","""Fox Pokémon""",NULL,NULL,0.6,8.9,"""Dark""",NULL
+828,1489,"""Thievul""","""Fox Pokémon""",NULL,NULL,1.2,19.9,"""Dark""",NULL
+829,1490,"""Gossifleur""","""Flowering Pokémon""",NULL,NULL,0.4,2.2,"""Grass""",NULL
+830,1491,"""Eldegoss""","""Cotton Bloom Pokémon""",NULL,NULL,0.5,2.5,"""Grass""",NULL
+831,1492,"""Wooloo""","""Sheep Pokémon""",NULL,NULL,0.6,6,"""Normal""",NULL
+832,1493,"""Dubwool""","""Sheep Pokémon""",NULL,NULL,1.3,43,"""Normal""",NULL
+833,1494,"""Chewtle""","""Snapping Pokémon""",NULL,NULL,0.3,8.5,"""Water""",NULL
+834,1495,"""Drednaw""","""Bite Pokémon""",NULL,NULL,1,115.5,"""Water""","""Rock"""
+834,1542,"""Drednaw""","""Bite Pokémon""","""Gigantamax""",NULL,24,0,"""Water""","""Rock"""
+835,1496,"""Yamper""","""Puppy Pokémon""",NULL,NULL,0.3,13.5,"""Electric""",NULL
+836,1497,"""Boltund""","""Dog Pokémon""",NULL,NULL,1,34,"""Electric""",NULL
+837,1498,"""Rolycoly""","""Coal Pokémon""",NULL,NULL,0.3,12,"""Rock""",NULL
+838,1499,"""Carkol""","""Coal Pokémon""",NULL,NULL,1.1,78,"""Rock""","""Fire"""
+839,1500,"""Coalossal""","""Coal Pokémon""",NULL,NULL,2.8,310.5,"""Rock""","""Fire"""
+839,1541,"""Coalossal""","""Coal Pokémon""","""Gigantamax""",NULL,42,0,"""Rock""","""Fire"""
+840,1501,"""Applin""","""Apple Core Pokémon""",NULL,NULL,0.2,0.5,"""Grass""","""Dragon"""
+841,1502,"""Flapple""","""Apple Wing Pokémon""",NULL,NULL,0.3,1,"""Grass""","""Dragon"""
+841,1540,"""Flapple""","""Apple Wing Pokémon""","""Gigantamax""",NULL,24,0,"""Grass""","""Dragon"""
+842,1539,"""Appletun""","""Apple Nectar Pokémon""","""Gigantamax""",NULL,24,0,"""Grass""","""Dragon"""
+842,1503,"""Appletun""","""Apple Nectar Pokémon""",NULL,NULL,0.4,13,"""Grass""","""Dragon"""
+843,1504,"""Silicobra""","""Sand Snake Pokémon""",NULL,NULL,2.2,7.6,"""Ground""",NULL
+844,1505,"""Sandaconda""","""Sand Snake Pokémon""",NULL,NULL,3.8,65.5,"""Ground""",NULL
+844,1538,"""Sandaconda""","""Sand Snake Pokémon""","""Gigantamax""",NULL,22,0,"""Ground""",NULL
+845,1506,"""Cramorant""","""Gulp Pokémon""",NULL,NULL,0.8,18,"""Flying""","""Water"""
+846,1507,"""Arrokuda""","""Rush Pokémon""",NULL,NULL,0.5,1,"""Water""",NULL
+847,1508,"""Barraskewda""","""Skewer Pokémon""",NULL,NULL,1.3,30,"""Water""",NULL
+848,14,"""Toxel""","""Baby Pokémon""",NULL,NULL,0.4,11,"""Electric""","""Poison"""
+849,15,"""Toxtricity""","""Punk Pokémon""",NULL,NULL,1.6,40,"""Electric""","""Poison"""
+849,16,"""Toxtricity""","""Punk Pokémon""","""Low Key""",NULL,1.6,40,"""Electric""","""Poison"""
+849,1536,"""Toxtricity""","""Punk Pokémon""","""Gigantamax""",NULL,24,0,"""Electric""","""Poison"""
+849,1537,"""Toxtricity""","""Punk Pokémon""","""Low Key Gigantamax""",NULL,24,0,"""Electric""","""Poison"""
+850,1509,"""Sizzlipede""","""Radiator Pokémon""",NULL,NULL,0.7,1,"""Fire""","""Bug"""
+851,1510,"""Centiskorch""","""Radiator Pokémon""",NULL,NULL,3,120,"""Fire""","""Bug"""
+851,1535,"""Centiskorch""","""Radiator Pokémon""","""Gigantamax""",NULL,75,0,"""Fire""","""Bug"""
+852,1511,"""Clobbopus""","""Tantrum Pokémon""",NULL,NULL,0.6,4,"""Fighting""",NULL
+853,1512,"""Grapploct""","""Jujitsu Pokémon""",NULL,NULL,1.6,39,"""Fighting""",NULL
+854,1513,"""Sinistea""","""Black Tea Pokémon""",NULL,NULL,0.1,0.2,"""Ghost""",NULL
+855,1514,"""Polteageist""","""Black Tea Pokémon""",NULL,NULL,0.2,0.4,"""Ghost""",NULL
+856,1515,"""Hatenna""","""Calm Pokémon""",NULL,NULL,0.4,3.4,"""Psychic""",NULL
+857,1516,"""Hattrem""","""Serene Pokémon""",NULL,NULL,0.6,4.8,"""Psychic""",NULL
+858,1517,"""Hatterene""","""Silent Pokémon""",NULL,NULL,2.1,5.1,"""Psychic""","""Fairy"""
+858,1534,"""Hatterene""","""Silent Pokémon""","""Gigantamax""",NULL,26,0,"""Psychic""","""Fairy"""
+859,1518,"""Impidimp""","""Wily Pokémon""",NULL,NULL,0.4,5.5,"""Dark""","""Fairy"""
+860,1519,"""Morgrem""","""Devious Pokémon""",NULL,NULL,0.8,12.5,"""Dark""","""Fairy"""
+861,1520,"""Grimmsnarl""","""Bulk Up Pokémon""",NULL,NULL,1.5,61,"""Dark""","""Fairy"""
+861,1533,"""Grimmsnarl""","""Bulk Up Pokémon""","""Gigantamax""",NULL,32,0,"""Dark""","""Fairy"""
+862,1468,"""Obstagoon""","""Blocking Pokémon""",NULL,NULL,1.6,46,"""Dark""","""Normal"""
+863,99,"""Perrserker""","""Viking Pokémon""",NULL,NULL,0.8,28,"""Steel""",NULL
+864,1390,"""Cursola""","""Coral Pokémon""",NULL,NULL,1,0.4,"""Ghost""",NULL
+865,1398,"""Sirfetch'd""","""Wild Duck Pokémon""",NULL,NULL,0.8,117,"""Fighting""",NULL
+866,1376,"""Mr. Rime""","""Comedian Pokémon""",NULL,NULL,1.5,58.2,"""Ice""","""Psychic"""
+867,1465,"""Runerigus""","""Grudge Pokémon""",NULL,NULL,1.6,66.6,"""Ground""","""Ghost"""
+868,1483,"""Milcery""","""Cream Pokémon""",NULL,NULL,0.2,0.3,"""Fairy""",NULL
+869,1484,"""Alcremie""","""Cream Pokémon""",NULL,NULL,0.3,0.5,"""Fairy""",NULL
+869,1532,"""Alcremie""","""Cream Pokémon""","""Gigantamax""",NULL,30,0,"""Fairy""",NULL
+870,1378,"""Falinks""","""Formation Pokémon""",NULL,NULL,3,62,"""Fighting""",NULL
+871,1425,"""Pincurchin""","""Sea Urchin Pokémon""",NULL,NULL,0.3,1,"""Electric""",NULL
+872,1481,"""Snom""","""Worm Pokémon""",NULL,NULL,0.3,3.8,"""Ice""","""Bug"""
+873,1482,"""Frosmoth""","""Frost Moth Pokémon""",NULL,NULL,1.3,42,"""Ice""","""Bug"""
+874,1412,"""Stonjourner""","""Big Rock Pokémon""",NULL,NULL,2.5,520,"""Rock""",NULL
+875,1479,"""Eiscue""","""Penguin Pokémon""",NULL,NULL,1.4,89,"""Ice""",NULL
+875,1480,"""Eiscue""","""Penguin Pokémon""","""Noice""",NULL,1.4,89,"""Ice""",NULL
+876,1477,"""Indeedee""","""Emotion Pokémon""",NULL,NULL,0.9,28,"""Psychic""","""Normal"""
+876,1478,"""Indeedee""","""Emotion Pokémon""","""Female""",NULL,0.9,28,"""Psychic""","""Normal"""
+877,1426,"""Morpeko""","""Two-Sided Pokémon""",NULL,NULL,0.3,3,"""Electric""","""Dark"""
+878,1475,"""Cufant""","""Copperderm Pokémon""",NULL,NULL,1.2,100,"""Steel""",NULL
+879,1476,"""Copperajah""","""Copperderm Pokémon""",NULL,NULL,3,650,"""Steel""",NULL
+879,1531,"""Copperajah""","""Copperderm Pokémon""","""Gigantamax""",NULL,23,0,"""Steel""",NULL
+880,1418,"""Dracozolt""","""Fossil Pokémon""",NULL,NULL,1.8,190,"""Electric""","""Dragon"""
+881,1420,"""Arctozolt""","""Fossil Pokémon""",NULL,NULL,2.3,150,"""Electric""","""Ice"""
+882,1419,"""Dracovish""","""Fossil Pokémon""",NULL,NULL,2.3,215,"""Water""","""Dragon"""
+883,1422,"""Arctovish""","""Fossil Pokémon""",NULL,NULL,2,175,"""Water""","""Ice"""
+884,1424,"""Duraludon""","""Alloy Pokémon""",NULL,NULL,1.8,40,"""Steel""","""Dragon"""
+884,1530,"""Duraludon""","""Alloy Pokémon""","""Gigantamax""",NULL,43,0,"""Steel""","""Dragon"""
+885,1472,"""Dreepy""","""Lingering Pokémon""",NULL,NULL,0.5,2,"""Dragon""","""Ghost"""
+886,1473,"""Drakloak""","""Caretaker Pokémon""",NULL,NULL,1.4,11,"""Dragon""","""Ghost"""
+887,1474,"""Dragapult""","""Stealth Pokémon""",NULL,NULL,3,50,"""Dragon""","""Ghost"""
+888,1448,"""Zacian""","""Warrior Pokémon""",NULL,"""Legendary""",2.8,110,"""Fairy""",NULL
+888,1449,"""Zacian""","""Warrior Pokémon""","""Crowned""","""Legendary""",2.8,355,"""Fairy""","""Steel"""
+889,1450,"""Zamazenta""","""Warrior Pokémon""",NULL,"""Legendary""",2.9,210,"""Fighting""",NULL
+889,1451,"""Zamazenta""","""Warrior Pokémon""","""Crowned""","""Legendary""",2.9,785,"""Fighting""","""Steel"""
+890,1452,"""Eternatus""","""Gigantic Pokémon""",NULL,"""Legendary""",20,950,"""Poison""","""Dragon"""
+890,1461,"""Eternatus""","""Gigantic Pokémon""","""Eternamax""","""Legendary""",100,0,"""Poison""","""Dragon"""
+891,38,"""Kubfu""","""Wushu Pokémon""",NULL,"""Sub-Legendary""",0.6,12,"""Fighting""",NULL
+892,39,"""Urshifu""","""Wushu Pokémon""",NULL,"""Sub-Legendary""",1.9,105,"""Fighting""","""Dark"""
+892,39,"""Urshifu""","""Wushu Pokémon""",NULL,"""Sub-Legendary""",1.9,105,"""Fighting""","""Dark"""
+892,40,"""Urshifu""","""Wushu Pokémon""","""Rapid Strike""","""Sub-Legendary""",1.9,105,"""Fighting""","""Water"""
+892,40,"""Urshifu""","""Wushu Pokémon""","""Rapid Strike""","""Sub-Legendary""",1.9,105,"""Fighting""","""Water"""
+892,1600,"""Urshifu""","""Wushu Pokémon""","""Gigantamax""","""Sub-Legendary""",29,0,"""Fighting""","""Dark"""
+892,1601,"""Urshifu""","""Wushu Pokémon""","""Rapid Strike Gigantamax""","""Sub-Legendary""",29,0,"""Fighting""","""Water"""
+893,1597,"""Zarude""","""Rogue Monkey Pokémon""",NULL,"""Mythical""",1.8,70,"""Dark""","""Grass"""
+894,1598,"""Regieleki""","""Electron Pokémon""",NULL,"""Sub-Legendary""",1.2,145,"""Electric""",NULL
+895,1599,"""Regidrago""","""Dragon Orb Pokémon""",NULL,"""Sub-Legendary""",2.1,200,"""Dragon""",NULL
+896,1602,"""Glastrier""","""Wild Horse Pokémon""",NULL,"""Sub-Legendary""",2.2,800,"""Ice""",NULL
+897,1603,"""Spectrier""","""Swift Horse Pokémon""",NULL,"""Sub-Legendary""",2,44.5,"""Ghost""",NULL
+898,1604,"""Calyrex""","""High King Pokémon""","""Ice Rider""","""Legendary""",1.1,7.7,"""Psychic""","""Ice"""
+898,1605,"""Calyrex""","""High King Pokémon""","""Shadow Rider""","""Legendary""",1.1,7.7,"""Psychic""","""Ghost"""
+898,41,"""Calyrex""","""King Pokémon""",NULL,"""Legendary""",1.1,7.7,"""Psychic""","""Grass"""
+899,1608,"""Wyrdeer""","""Big Horn Pokémon""",NULL,NULL,1.8,95.1,"""Normal""","""Psychic"""
+900,1616,"""Kleavor""","""Axe Pokémon""",NULL,NULL,1.8,89,"""Bug""","""Rock"""
+901,1621,"""Ursaluna""","""Peat Pokémon""",NULL,NULL,2.4,290,"""Ground""","""Normal"""
+902,1622,"""Basculegion""","""Big Fish Pokémon""","""Female""",NULL,3,110,"""Water""","""Ghost"""
+902,1609,"""Basculegion""","""Big Fish Pokémon""",NULL,NULL,3,110,"""Water""","""Ghost"""
+903,1631,"""Sneasler""","""Free Climb Pokémon""",NULL,NULL,1.3,43,"""Fighting""","""Poison"""
+904,1626,"""Overqwil""","""Pin Cluster Pokémon""",NULL,NULL,2.5,60.5,"""Dark""","""Poison"""
+905,1635,"""Enamorus""","""Love-Hate Pokémon""",NULL,"""Sub-Legendary""",1.6,48,"""Fairy""","""Flying"""
+905,1636,"""Enamorus""","""Love-Hate Pokémon""","""Therian""","""Sub-Legendary""",1.6,48,"""Fairy""","""Flying"""
+906,1642,"""Sprigatito""","""Grass Cat Pokémon""",NULL,NULL,0.4,4.1,"""Grass""",NULL
+907,1666,"""Floragato""","""Grass Cat Pokémon""",NULL,NULL,0.9,12.2,"""Grass""",NULL
+908,1667,"""Meowscarada""","""Magician Pokémon""",NULL,NULL,1.5,31.2,"""Grass""","""Dark"""
+909,1643,"""Fuecoco""","""Fire Croc Pokémon""",NULL,NULL,0.4,4.1,"""Fire""",NULL
+910,1669,"""Crocalor""","""Fire Croc Pokémon""",NULL,NULL,1,30.7,"""Fire""",NULL
+911,1670,"""Skeledirge""","""Singer Pokémon""",NULL,NULL,1.6,326.5,"""Fire""","""Ghost"""
+912,1644,"""Quaxly""","""Duckling Pokémon""",NULL,NULL,0.5,6.1,"""Water""",NULL
+913,1674,"""Quaxwell""","""Practicing Pokémon""",NULL,NULL,1.2,21.5,"""Water""",NULL
+914,1675,"""Quaquaval""","""Dancer Pokémon""",NULL,NULL,1.8,61.9,"""Water""","""Fighting"""
+915,1649,"""Lechonk""","""Hog Pokémon""",NULL,NULL,0.5,10.2,"""Normal""",NULL
+916,1676,"""Oinkologne""","""Hog Pokémon""",NULL,NULL,1,120,"""Normal""",NULL
+916,1677,"""Oinkologne""","""Hog Pokémon""","""Female""",NULL,1,120,"""Normal""",NULL
+917,1712,"""Tarountula""","""String Ball Pokémon""",NULL,NULL,0.3,4,"""Bug""",NULL
+918,1713,"""Spidops""","""Trap Pokémon""",NULL,NULL,1,16.5,"""Bug""",NULL
+919,1714,"""Nymble""","""Grasshopper Pokémon""",NULL,NULL,0.2,1,"""Bug""",NULL
+920,1715,"""Lokix""","""Grasshopper Pokémon""",NULL,NULL,1,17.5,"""Bug""","""Dark"""
+921,1650,"""Pawmi""","""Mouse Pokémon""",NULL,NULL,0.3,2.5,"""Electric""",NULL
+922,1698,"""Pawmo""","""Mouse Pokémon""",NULL,NULL,0.4,6.5,"""Electric""","""Fighting"""
+923,1699,"""Pawmot""","""Mouse Pokémon""",NULL,NULL,0.9,41,"""Electric""","""Fighting"""
+924,1691,"""Tandemaus""","""Couple Pokémon""",NULL,NULL,0.3,1.8,"""Normal""",NULL
+925,1692,"""Maushold""","""Family Pokémon""",NULL,NULL,0.3,2.8,"""Normal""",NULL
+926,1653,"""Fidough""","""Puppy Pokémon""",NULL,NULL,0.3,10.9,"""Fairy""",NULL
+927,1710,"""Dachsbun""","""Dog Pokémon""",NULL,NULL,0.5,14.9,"""Fairy""",NULL
+928,1651,"""Smoliv""","""Olive Pokémon""",NULL,NULL,0.3,6.5,"""Grass""","""Normal"""
+929,1696,"""Dolliv""","""Olive Pokémon""",NULL,NULL,0.6,11.9,"""Grass""","""Normal"""
+930,1697,"""Arboliva""","""Olive Pokémon""",NULL,NULL,1.4,48.2,"""Grass""","""Normal"""
+931,1734,"""Squawkabilly""","""Parrot Pokémon""",NULL,NULL,0.6,2.4,"""Normal""","""Flying"""
+931,1735,"""Squawkabilly""","""Parrot Pokémon""","""Blue Plumage""",NULL,0.6,2.4,"""Normal""","""Flying"""
+931,1736,"""Squawkabilly""","""Parrot Pokémon""","""Yellow Plumage""",NULL,0.6,2.4,"""Normal""","""Flying"""
+931,1737,"""Squawkabilly""","""Parrot Pokémon""","""White Plumage""",NULL,0.6,2.4,"""Normal""","""Flying"""
+932,1750,"""Nacli""","""Rock Salt Pokémon""",NULL,NULL,0.4,16,"""Rock""",NULL
+933,1751,"""Naclstack""","""Rock Salt Pokémon""",NULL,NULL,0.6,105,"""Rock""",NULL
+934,1752,"""Garganacl""","""Rock Salt Pokémon""",NULL,NULL,2.3,240,"""Rock""",NULL
+935,1668,"""Charcadet""","""Fire Child Pokémon""",NULL,NULL,0.6,10.5,"""Fire""",NULL
+936,1658,"""Armarouge""","""Fire Warrior Pokémon""",NULL,NULL,1.5,85,"""Fire""","""Psychic"""
+937,1659,"""Ceruledge""","""Fire Blades Pokémon""",NULL,NULL,1.6,62,"""Fire""","""Ghost"""
+938,1680,"""Tadbulb""","""EleTadpole Pokémon""",NULL,NULL,0.3,0.4,"""Electric""",NULL
+939,1662,"""Bellibolt""","""EleFrog Pokemon""",NULL,NULL,1.2,113,"""Electric""",NULL
+940,1726,"""Wattrel""","""Storm Petrel Pokémon""",NULL,NULL,0.4,3.6,"""Electric""","""Flying"""
+941,1727,"""Kilowattrel""","""Frigatebird Pokémon""",NULL,NULL,1.4,38.6,"""Electric""","""Flying"""
+942,1755,"""Maschiff""","""Rascal Pokémon""",NULL,NULL,0.5,16,"""Dark""",NULL
+943,1756,"""Mabosstiff""","""Boss Pokémon""",NULL,NULL,1.1,61,"""Dark""",NULL
+944,1708,"""Shroodle""","""Toxic Mouse Pokémon""",NULL,NULL,0.2,0.7,"""Poison""","""Normal"""
+945,1656,"""Grafaiai""","""Toxic Monkey Pokémon""",NULL,NULL,0.7,27.2,"""Poison""","""Normal"""
+946,1702,"""Bramblin""","""Tumbleweed Pokémon""",NULL,NULL,0.6,0.6,"""Grass""","""Ghost"""
+947,1703,"""Brambleghast""","""Tumbleweed Pokémon""",NULL,NULL,1.2,6,"""Grass""","""Ghost"""
+948,1720,"""Toedscool""","""Woodear Pokémon""",NULL,NULL,0.9,33,"""Ground""","""Grass"""
+949,1721,"""Toedscruel""","""Woodear Pokémon""",NULL,NULL,1.9,58,"""Ground""","""Grass"""
+950,1657,"""Klawf""","""Ambush Pokémon""",NULL,NULL,1.3,79,"""Rock""",NULL
+951,1687,"""Capsakid""","""Spicy Pepper Pokémon""",NULL,NULL,0.3,3,"""Grass""",NULL
+952,1688,"""Scovillain""","""Spicy Pepper Pokémon""",NULL,NULL,0.9,15,"""Grass""","""Fire"""
+953,1700,"""Rellor""","""Rolling Pokémon""",NULL,NULL,0.2,1,"""Bug""",NULL
+954,1701,"""Rabsca""","""Rolling Pokémon""",NULL,NULL,0.3,3.5,"""Bug""","""Psychic"""
+955,1716,"""Flittle""","""Frill Pokémon""",NULL,NULL,0.2,1.5,"""Psychic""",NULL
+956,1717,"""Espathra""","""Ostrich Pokémon""",NULL,NULL,1.9,90,"""Psychic""",NULL
+957,1729,"""Tinkatink""","""Metalsmith Pokémon""",NULL,NULL,0.4,8.9,"""Fairy""","""Steel"""
+958,1730,"""Tinkatuff""","""Hammer Pokémon""",NULL,NULL,0.7,59.1,"""Fairy""","""Steel"""
+959,1731,"""Tinkaton""","""Hammer Pokémon""",NULL,NULL,0.7,112.8,"""Fairy""","""Steel"""
+960,1660,"""Wiglett""","""Garden Eel Pokémon""",NULL,NULL,1.2,1.8,"""Water""",NULL
+961,1704,"""Wugtrio""","""Garden Eel Pokémon""",NULL,NULL,1.2,5.4,"""Water""",NULL
+962,1728,"""Bombirdier""","""Item Drop Pokémon""",NULL,NULL,1.5,42.9,"""Flying""","""Dark"""
+963,1693,"""Finizen""","""Dolphin Pokémon""",NULL,NULL,1.3,60.2,"""Water""",NULL
+964,1694,"""Palafin""","""Dolphin Pokémon""",NULL,NULL,1.3,60.2,"""Water""",NULL
+964,1695,"""Palafin""","""Dolphin Pokémon""","""Hero""",NULL,1.8,97.4,"""Water""",NULL
+965,1718,"""Varoom""","""Single-Cyl Pokémon""",NULL,NULL,1,35,"""Steel""","""Poison"""
+966,1719,"""Revavroom""","""Multi-Cyl Pokémon""",NULL,NULL,1.8,120,"""Steel""","""Poison"""
+967,1655,"""Cyclizar""","""Mount Pokémon""",NULL,NULL,1.6,63,"""Dragon""","""Normal"""
+968,1722,"""Orthworm""","""Earthworm Pokémon""",NULL,NULL,2.5,310,"""Steel""",NULL
+969,1753,"""Glimmet""","""Ore Pokémon""",NULL,NULL,0.7,8,"""Rock""","""Poison"""
+970,1754,"""Glimmora""","""Ore Pokémon""",NULL,NULL,1.5,45,"""Rock""","""Poison"""
+971,1663,"""Greavard""","""Ghost Dog Pokémon""",NULL,NULL,0.6,35,"""Ghost""",NULL
+972,1709,"""Houndstone""","""Ghost Dog Pokémon""",NULL,NULL,2,15,"""Ghost""",NULL
+973,1738,"""Flamigo""","""Synchronize Pokémon""",NULL,NULL,1.6,37,"""Flying""","""Fighting"""
+974,1689,"""Cetoddle""","""Terra Whale Pokémon""",NULL,NULL,1.2,45,"""Ice""",NULL
+975,1652,"""Cetitan""","""Terra Whale Pokémon""",NULL,NULL,4.5,700,"""Ice""",NULL
+976,1707,"""Veluza""","""Jettison Pokémon""",NULL,NULL,2.5,90,"""Water""","""Psychic"""
+977,1705,"""Dondozo""","""Big Catfish Pokémon""",NULL,NULL,12,220,"""Water""",NULL
+978,1706,"""Tatsugiri""","""Mimicry Pokémon""",NULL,NULL,0.3,8,"""Dragon""","""Water"""
+979,1678,"""Annihilape""","""Rage Monkey Pokémon""",NULL,NULL,1.2,56,"""Fighting""","""Ghost"""
+980,1679,"""Clodsire""","""Spiny Fish Pokémon""",NULL,NULL,1.8,223,"""Poison""","""Ground"""
+981,1661,"""Farigiraf""","""Long Neck Pokémon""",NULL,NULL,3.2,160,"""Normal""","""Psychic"""
+982,1690,"""Dudunsparce""","""Land Snake Pokémon""",NULL,NULL,3.6,39.2,"""Normal""",NULL
+983,1686,"""Kingambit""","""Big Blade Pokémon""",NULL,NULL,2,120,"""Dark""","""Steel"""
+984,1711,"""Great Tusk""","""Paradox Pokémon""",NULL,NULL,2.2,320,"""Ground""","""Fighting"""
+985,1739,"""Scream Tail""","""Paradox Pokémon""",NULL,NULL,1.2,8,"""Fairy""","""Psychic"""
+986,1732,"""Brute Bonnet""","""Paradox Pokémon""",NULL,NULL,1.2,21,"""Grass""","""Dark"""
+987,1740,"""Flutter Mane""","""Paradox Pokémon""",NULL,NULL,1.4,4,"""Ghost""","""Fairy"""
+988,1741,"""Slither Wing""","""Paradox Pokémon""",NULL,NULL,3.2,92,"""Bug""","""Fighting"""
+989,1733,"""Sandy Shocks""","""Paradox Pokémon""",NULL,NULL,2.3,60,"""Electric""","""Ground"""
+990,1743,"""Iron Treads""","""Paradox Pokémon""",NULL,NULL,0.9,240,"""Ground""","""Steel"""
+991,1748,"""Iron Bundle""","""Paradox Pokémon""",NULL,NULL,0.6,11,"""Ice""","""Water"""
+992,1745,"""Iron Hands""","""Paradox Pokémon""",NULL,NULL,1.8,380.7,"""Fighting""","""Electric"""
+993,1746,"""Iron Jugulis""","""Paradox Pokémon""",NULL,NULL,1.3,111,"""Dark""","""Flying"""
+994,1744,"""Iron Moth""","""Paradox Pokémon""",NULL,NULL,1.2,36,"""Fire""","""Poison"""
+995,1747,"""Iron Thorns""","""Paradox Pokémon""",NULL,NULL,1.6,303,"""Rock""","""Electric"""
+996,1723,"""Frigibax""","""Ice Fin Pokémon""",NULL,NULL,0.5,17,"""Dragon""","""Ice"""
+997,1724,"""Arctibax""","""Ice Fin Pokémon""",NULL,NULL,0.8,30,"""Dragon""","""Ice"""
+998,1725,"""Baxcalibur""","""Ice Dragon Pokémon""",NULL,NULL,2.1,210,"""Dragon""","""Ice"""
+999,1664,"""Gimmighoul""","""Coin Chest Pokémon""",NULL,NULL,0.3,5,"""Ghost""",NULL
+999,1665,"""Gimmighoul""","""Coin Chest Pokémon""","""Roaming""",NULL,0.1,0.1,"""Ghost""",NULL
+1000,1681,"""Gholdengo""","""Coin Entity Pokémon""",NULL,NULL,1.2,30,"""Steel""","""Ghost"""
+1001,1684,"""Wo-Chien""","""Ruinous Pokémon""",NULL,"""Sub-Legendary""",1.5,74.2,"""Dark""","""Grass"""
+1002,1683,"""Chien-Pao""","""Ruinous Pokémon""",NULL,"""Sub-Legendary""",1.9,152.2,"""Dark""","""Ice"""
+1003,1682,"""Ting-Lu""","""Ruinous Pokémon""",NULL,"""Sub-Legendary""",2.7,699.7,"""Dark""","""Ground"""
+1004,1685,"""Chi-Yu""","""Ruinous Pokémon""",NULL,"""Sub-Legendary""",0.4,4.9,"""Dark""","""Fire"""
+1005,1742,"""Roaring Moon""","""Paradox Pokémon""",NULL,NULL,2,380,"""Dragon""","""Dark"""
+1006,1749,"""Iron Valiant""","""Paradox Pokémon""",NULL,NULL,1.4,35,"""Fairy""","""Fighting"""
+1007,1647,"""Koraidon""","""Paradox Pokémon""",NULL,"""Legendary""",2.5,303,"""Fighting""","""Dragon"""
+1008,1648,"""Miraidon""","""Paradox Pokémon""",NULL,"""Legendary""",3.5,240,"""Electric""","""Dragon"""
