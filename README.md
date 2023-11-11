@@ -1,1 +1,1 @@
-# pokemonhw is a list of PokemonGo stats for the pokemon capture. I made a focus on Height, Weight, Type and Special Type of Pokemon. This is used as a learning/exploration dataset for Python experience.
+# pokemonhw is a list of PokemonGo stats for the pokemon captured. I made a focus on Height, Weight, Type and Special Type of Pokemon. This is used as a learning/exploration dataset for Python experience.
